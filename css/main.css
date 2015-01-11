@@ -20,8 +20,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:verdana;
+    font-size:300%;
 }
 p {
     font-size: 1.5em;
