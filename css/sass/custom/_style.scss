@@ -89,7 +89,7 @@ hr{
         font-size: 4.1em;  
         margin-top: 1em;
         letter-spacing: 0.04em;
-        color: $blueDuller;
+        color: $grayTimberwolf;
     }
 
     .sub-title{
@@ -126,7 +126,7 @@ hr{
 
     h3{
         font-family: 'Raleway';
-        color: $blueDuller;
+        color: $grayTimberwolf;
         font-weight: normal;
         font-size: 2em;
         margin-top: 0.2em;
@@ -176,7 +176,7 @@ hr{
      font-size: 2.2em;
      margin: 1.9em 0 -1.1em 1em;
      float: left;
-     background-color: $blueDuller;
+     background-color: $grayTimberwolf;
      padding: 0.65em;
      @include border-radius(2em);
 
@@ -206,7 +206,7 @@ hr{
         font-size: 5em;
         padding: 1.1em 0 0.2em;
         letter-spacing: 0.05em;
-        color: $blueDuller;
+        color: $grayTimberwolf;
 
         span{
             font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
