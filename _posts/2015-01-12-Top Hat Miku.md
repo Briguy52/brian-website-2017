@@ -3,6 +3,6 @@ layout: post_page
 title: Top Hat Miku
 ---
 
-![Top Hat Miku](http://cdn.awwni.me/p6n0.jpg =600x650)
+<img src="http://cdn.awwni.me/p6n0.jpg" alt="Drawing" style="width: 600px;"/>
 
 Artist: Hibiya
