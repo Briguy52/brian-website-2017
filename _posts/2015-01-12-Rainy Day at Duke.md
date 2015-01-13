@@ -1,6 +1,8 @@
 ---
 layout: post_page
-title: Rainy Day at Duke
+title: Top Hat Miku
 ---
 
-Nothing like a rainy day to make you appreciate the value of an umbrella. 
+![Top Hat Miku](http://cdn.awwni.me/p6n0.jpg)
+
+Artist: Hibiya
