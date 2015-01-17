@@ -11,12 +11,14 @@ title: Mainpage
     		  <h1>The Briar Patch</h1>
           <div class="sub-title">The mish-mash blog of Brian M. Lin - bri@nmlin.org</div>
           <ul class="screen-only">
-                          
-                          <li><a href="/blog/">blog</a></li>
-                          <li><a href="/gallery/">gallery</a></li>
-                          <li><a href="/projects.html">projects</a></li>
-                          <li><a href="/about.html">about</a></li>
-                      </ul>
+                         {% if 'dev' == site.environment %}
+                             <li><a href="/private/">private</a></li>
+                         {% endif %}
+                         <li><a href="/blog/">blog</a></li>
+                         <li><a href="/gallery/">gallery</a></li>
+                         <li><a href="/projects.html">projects</a></li>
+                         <li><a href="/about.html">about</a></li>
+                     </ul>
     		</section>
     		<ul class="entries">
     		{% for post in paginator.posts %}
