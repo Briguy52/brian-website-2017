@@ -17,7 +17,9 @@ title: Mainpage
     		    <a href="{{ post.url }}">
     		        <h3>{{ post.title }}</h3>
                 <time>{{ post.date | date: "%d %B %Y" }}</time>
-                <div>{{ post.description }}</div>
+                {% if post.description %}
+                           <div class="meta" style="margin-bottom:0;margin-top:0;">{{ post.description }}</div>
+                       {% endif %}
     		    </a>
     		  </li>
     		{% endfor %}
