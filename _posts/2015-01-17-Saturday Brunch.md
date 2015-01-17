@@ -5,10 +5,10 @@ title: Saturday Brunch
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/8DJwpsY.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="300" src="http://i.imgur.com/8DJwpsY.jpg" title="Banana Bread" width="300" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/8DJwpsY.jpg" title="Banana Bread" width="250" style="padding:1px;">
 </a>
 <a href="http://i.imgur.com/FnrqrHT.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="300" src="http://i.imgur.com/FnrqrHT.jpg" title="Banana Bread" width="300" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/FnrqrHT.jpg" title="Banana Bread" width="250" style="padding:1px;">
 </a>
 </div>
 
