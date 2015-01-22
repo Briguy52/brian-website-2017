@@ -23,7 +23,7 @@ Next, we have a shot of the Bell Tower dorm (the newest freshman dorm) and a tre
 <img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/4Yspu45.jpg" title="Banana Bread" width="250" style="padding:1px;">
 </a>
 <a href="http://i.imgur.com/ORydN8O.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/ORydN8O.jpg" title="Banana Bread" width="250" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="275" src="http://i.imgur.com/ORydN8O.jpg" title="Banana Bread" width="300" style="padding:1px;">
 </a>
 </div>
 
