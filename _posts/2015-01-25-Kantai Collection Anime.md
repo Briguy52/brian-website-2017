@@ -1,12 +1,12 @@
 ---
 layout: post_page
-title: Kantai Collection Anime
-description:
+title: KanColle Initial Impressions!
+description: Kantai Collection - Fleet Girls
 ---
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="Images/bob%20sendai%20girls.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="450" src="Images/white%20shirt.png" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="450" src="Images/bob%20sendai%20girls.jpg" title="Banana Bread" width="450" style="padding:1px;">
 </a>
 </div>
 
