@@ -41,6 +41,6 @@ On Saturday, we also made some homemade noodles that we served with miso soup (q
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="Images/2015.02.08/miso_soup.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Miso Ramen" height="650" src="Images/2015.02.08/miso_ramen.jpg" title="Miso Ramen" width="650" style="padding:1px;">
+<img alt="Photo: Miso Ramen" height="650" src="Images/2015.02.08/miso_soup.jpg" title="Miso Ramen" width="650" style="padding:1px;">
 </a>
 </div>
