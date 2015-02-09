@@ -6,7 +6,7 @@ description: And some wet stones
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/exmgYWV.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="450" src="http://i.imgur.com/exmgYWV.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/exmgYWV.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
