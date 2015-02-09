@@ -5,7 +5,7 @@ description: Grilled Cheese, Tomato Basil Soup, and a Nice View!
 ---
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/IzQ56Yp.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="450" src="http://i.imgur.com/IzQ56Yp.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/IzQ56Yp.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
@@ -13,7 +13,7 @@ A (greasy) but delicious lunch. With tax, it ended up being somewhere between 7 
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/fwYdKWJ.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/fwYdKWJ.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/fwYdKWJ.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
@@ -21,7 +21,7 @@ That's the view from the 2nd floor balcony area of the Divinity School, looking 
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/gjySEHO.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/gjySEHO.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/gjySEHO.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
@@ -30,7 +30,7 @@ One of my favorite parts about the Divinity School is this nice long white hallw
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/eiAbWB2.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/eiAbWB2.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/eiAbWB2.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
@@ -38,7 +38,7 @@ Here's the stained glass window at the end of the hallway (it's to my back in th
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/Xbc1BVd.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/Xbc1BVd.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/Xbc1BVd.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
@@ -46,7 +46,7 @@ Duke Chapel - Divinity School side. Wow, what a view! The tower going up to the 
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/pAGfb7v.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="450" src="http://i.imgur.com/pAGfb7v.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/pAGfb7v.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
@@ -54,7 +54,7 @@ During ECE lab this morning, I got to mess around with a BOE-bot. The robot that
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/km2fH12.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="450" src="http://i.imgur.com/km2fH12.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/km2fH12.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
@@ -64,7 +64,7 @@ After lunch and ECE lab, I took an hour-long nap around noon. There's a little c
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/n2d5096.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/n2d5096.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/n2d5096.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
@@ -72,7 +72,7 @@ Here's an interesting picture of some tree roots outside FCIEMAS.
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/QjdExqT.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/QjdExqT.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="650" src="http://i.imgur.com/QjdExqT.jpg" title="Banana Bread" width="650" style="padding:1px;">
 </a>
 </div>
 
