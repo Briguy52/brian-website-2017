@@ -6,7 +6,7 @@ description: Several hours of cooking over the weekend
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="Images/2015.02.08/food_trio.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="450" src="Images/2015.02.08/food_trio.jpg" title="Banana Bread" width="450" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="506" src="Images/2015.02.08/food_trio.jpg" title="Banana Bread" width="506" style="padding:1px;">
 </a>
 </div>
 
