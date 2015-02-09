@@ -5,10 +5,10 @@ description: Duke vs. Miami
 ---
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/xC48C7s.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Take a Shot" height='250' src="http://i.imgur.com/xC48C7s.jpg" title="Take a Shot" width='250' style="padding:1px;">
+<img alt="Photo: Take a Shot" height='321' src="http://i.imgur.com/xC48C7s.jpg" title="Take a Shot" width='321' style="padding:1px;">
 </a>
 <a href="http://i.imgur.com/bY3hbog.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Pre-Game" height="250" src="http://i.imgur.com/bY3hbog.jpg" title="Pre-Game" width="250" style="padding:1px;">
+<img alt="Photo: Pre-Game" height="321" src="http://i.imgur.com/bY3hbog.jpg" title="Pre-Game" width="321" style="padding:1px;">
 </a>
 </div>
 

@@ -6,10 +6,10 @@ description: Egg-topped, super cheesy, oven-broiled pork loin bacon sandwiches!
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/xLycC8h.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height='250' src="http://i.imgur.com/xLycC8h.jpg" title="Banana Bread" width='250' style="padding:1px;">
+<img alt="Photo: Banana Bread" height='321' src="http://i.imgur.com/xLycC8h.jpg" title="Banana Bread" width='321' style="padding:1px;">
 </a>
 <a href="http://i.imgur.com/NTOwCkV.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Banana Bread" height="250" src="http://i.imgur.com/NTOwCkV.jpg" title="Banana Bread" width="250" style="padding:1px;">
+<img alt="Photo: Banana Bread" height="321" src="http://i.imgur.com/NTOwCkV.jpg" title="Banana Bread" width="321" style="padding:1px;">
 </a>
 </div>
 

@@ -12,6 +12,6 @@ description: aka Challah Bread French Toast
 </a>
 </div>
 
-As a late lunch/ dinner combo, we had, by Original Stu's recommendation, some Challah Bread French Toast. We started with a simple batter of eggs, almond milk, cinnamon, and vanilla. Then soaked the sliced Challah bread, added some sliced almonds, and then baked and broiled the toast in the oven. Afterwards, we topped them off with powdered sugar and raspberries. 
+As a late lunch/ dinner combo, we had, by Gabriel's recommendation, some Challah Bread French Toast. We started with a simple batter of eggs, almond milk, cinnamon, and vanilla. Then soaked the sliced Challah bread, added some sliced almonds, and then baked and broiled the toast in the oven. Afterwards, we topped them off with powdered sugar and raspberries. 
 
-Boston Wo and I also made some simple burgers on the side.
+Austin and I also made some simple burgers on the side.
