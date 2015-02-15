@@ -1,7 +1,7 @@
 ---
 layout: post_page
 title: Valentine's Day: Steamed Buns, Fountain Pens, and Pumpkin Bread!
-description: Lots of good food and the TWSBI Diamond 580
+description: Lots of good food 
 ---
 
 <div style="line-height:0;padding:4px 0 0 1px;">
