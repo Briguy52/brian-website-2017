@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Valentine's Day: Steamed Buns, Fountain Pens, and Pumpkin Bread!
+title: Valentine's Day- Steamed Buns, Fountain Pens, and Pumpkin Bread!
 description: Lots of good food and the TWSBI Diamond 580.
 ---
 <a href="http://i.imgur.com/msLMV52.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
