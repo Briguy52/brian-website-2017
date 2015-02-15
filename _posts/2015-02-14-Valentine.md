@@ -4,10 +4,10 @@ title: Valentine's Day- Steamed Buns, Fountain Pens, and Pumpkin Bread!
 description: Lots of good food and the TWSBI Diamond 580.
 ---
 <a href="Images/2015.02.14/buns_one.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: See This" height="650" src="Images/2015.02.14/buns_one.jpg" title="Not This" width="650" style="padding:1px;">
+<img alt="Photo: See This" height="321" src="Images/2015.02.14/buns_one.jpg" title="Not This" width="321" style="padding:1px;">
 </a>
-<a href="Images/2015.02.15/buns_two.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Buns After" height="321" src="Images/2015.02.15/buns_two.jpg" title="Buns After" width="321" style="padding:1px;">
+<a href="Images/2015.02.14/buns_two.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
+<img alt="Photo: Buns After" height="321" src="Images/2015.02.14/buns_two.jpg" title="Buns After" width="321" style="padding:1px;">
 </a>
 
 
