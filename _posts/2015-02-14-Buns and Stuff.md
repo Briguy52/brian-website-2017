@@ -4,14 +4,14 @@ title: Valentine's Day: Steamed Buns, Fountain Pens, and Pumpkin Bread!
 description: Lots of good food 
 ---
 
-<div style="line-height:0;padding:4px 0 0 1px;">
+ 
 <a href="Images/2015.02.14/buns_one.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: Buns Before" height="321" src="Images/2015.02.08/buns_one.jpg" title="Buns Before" width="321" style="padding:1px;">
 </a>
 <a href="Images/2015.02.14/buns_two.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: Buns After" height="321" src="Images/2015.02.14/buns_two.jpg" title="Buns After" width="321" style="padding:1px;">
 </a>
-</div>
+
 
 For dinner today, Pim and I made some Chinese steamed buns (bao zi)! These were made very similarly to the potstickers last week- just with the addition of yeast to the dough (which then proofed for an hour in a nice warm oven). I must say though- wrapping the bao zi was quite a challenge for me (luckily Pim got it down really quickly). The filling was cabbage, green onions, soy sauce, oil, salt, and ground pork like always. This recipe was based on The Woks of Life's [Carrot Ginger Pork Buns: Two Ways](http://thewoksoflife.com/2014/06/carrot-ginger-pork-buns/), but without the carrot, ginger, and some other ingredients I didn't have around. 
 
