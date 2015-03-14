@@ -4,10 +4,10 @@ title: A Spring Break Sampler
 description: Hello
 ---
 
-<a href="Images/2015.03.13/amaretto.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
+<a href="Images/2015.03.13/amaretto.jpg"> 
 <img alt="Photo: A Classic View" src="http://nmlin.org/Images/2015.03.13/amaretto.jpg" style="max-width:274px;">
 </a>
-<a href="Images/2015.03.13/glazed.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
+<a href="Images/2015.03.13/glazed.jpg"> 
 <img alt="Photo: A Classic View" src="http://nmlin.org/Images/2015.03.13/glazed.jpg" style="max-width:274px;">
 </a>
 

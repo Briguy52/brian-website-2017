@@ -5,10 +5,10 @@ description: Hello
 ---
 
 
-<a href="Images/2015.02.14/buns_one.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
+<a href="Images/2015.02.14/buns_one.jpg"> 
 <img alt="Photo: A Classic View" src="http://nmlin.org/Images/2015.02.14/buns_one.jpg" style="max-width:274px;">
 </a>
-<a href="Images/2015.02.14/buns_two.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
+<a href="Images/2015.02.14/buns_two.jpg"> 
 <img alt="Photo: A Classic View" src="http://nmlin.org/Images/2015.02.14/buns_two.jpg" style="max-width:274px;">
 </a>
 
