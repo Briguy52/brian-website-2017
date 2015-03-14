@@ -18,5 +18,5 @@ For the ‘main course’, we had the ‘Ooey Gooey Gouda’ as mentioned before
 Overall, it’s a cool place (will post some shots of the interior and exterior next time I visit) and well worth dropping by if you’re on Ninth Street.
 
 <a href="Images/2015.03.13/gouda.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: A Classic View" src="http://nmlin.org/Images/2015.03.13/gouda.jpg" style="max-width:274px;">
+<img alt="Photo: A Classic View" src="http://nmlin.org/Images/2015.03.13/gouda.jpg" style="max-width:550px;">
 </a>
