@@ -3,11 +3,11 @@ layout: post_page
 title: Valentine's Day- Steamed Buns, French Toast, and Pumpkin Bread!
 description: Lots of good food
 ---
-<img class=“at” src=“http://http://www.nmlin.org/Images/2015.02.14/buns_one.jpg” alt=“Sample”>
+
 
 
 <a href="Images/2015.02.14/buns_one.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: See This" height="321" src="http://www.nmlin.org/Images/2015.02.14/buns_one.jpg" title="Not This” width="321" style="padding:1px;">
+<img alt="Photo: See This" height="321" a href="Images/2015.02.14/buns_one.jpg" title="Not This” width="321" style="padding:1px;">
 </a>
 <a href="Images/2015.02.14/buns_two.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: Buns After" height="321" src="Images/2015.02.14/buns_two.jpg" title="Buns After" width="321" style="padding:1px;">
