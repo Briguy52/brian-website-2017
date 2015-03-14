@@ -17,6 +17,8 @@ Pictured above is a nicely hidden stand of bamboo trees in the Asiatic Pavilion 
 
 On a brighter note, I still think it’s funny how the #1 thing to do in Durham (according to TripAdvisor) is to visit the Duke Gardens. And not just that- about half of the top 10 are venues associated with Duke, like the Chapel and Cameron Indoor Stadium. Ah, the inseparable Duke and Durham. 
 
+</div>
+
 <img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.03.13/okra.jpg" style="max-width:315px;">
 
-</div>
+
