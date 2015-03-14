@@ -1,7 +1,6 @@
 ---
 layout: post_page
 title: Valentine's Day- Steamed Buns, French Toast, and Pumpkin Bread!
-description: Lots of good food
 ---
 
 
