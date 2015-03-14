@@ -6,7 +6,7 @@ description: Hello
 
 <a href="Images/2015.03.13/amaretto.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: A Classic View" src="http://nmlin.org/Images/2015.03.13/amaretto.jpg" style="max-width:274px;">
-</a:>
+</a>
 <a href="Images/2015.03.13/glazed.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: Buckingham Palace” src="http://nmlin.org/Images/2015.03.13/glazed.jpg" style="max-width:274px;">
 </a>
