@@ -5,11 +5,7 @@ title: Spring Break Unbroken- A 2015 Spring Break Recap!
 
 <img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.03.13/betterbamboo.jpg" style="max-width:630px;">
 
-<div style="text-align:center; position: absolute;
-margin-left: auto;
-margin-right: auto;
-left: 0;
-right: 0;”>
+<div style="text-align:center”>
 
 College is one long sleepover with everything you could want. There’s classes to feed your mind. Gyms, sports, and trails to feed your body. Game of Thrones marathons to feed your intrigue. And best of all, plenty of friends to feed your hunger for companionship. And best of all, there’s ice cream to feed your ice cream cravings. 
 
