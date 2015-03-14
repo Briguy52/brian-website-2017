@@ -5,10 +5,10 @@ title: Valentine's Day- Steamed Buns, French Toast, and Pumpkin Bread!
 
 
 <a href="Images/2015.02.14/buns_one.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Buns One” src="http://nmlin.org/Images/2015.02.14/buns_one.jpg" style="max-width:274px;padding: 1px;">
+<img alt="Photo: Buckingham Palace” src="http://nmlin.org/Images/2015.02.14/buns_one.jpg" style="max-width:274px;padding: 1px;">
 </a>
 <a href="Images/2015.02.14/buns_two.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Buns Two” src="http://nmlin.org/Images/2015.02.14/buns_two.jpg" style="max-width:274px;padding: 1px;">
+<img alt="Photo: Buckingham Palace” src="http://nmlin.org/Images/2015.02.14/buns_two.jpg" style="max-width:274px;padding: 1px;">
 </a>
 
 
@@ -18,16 +18,16 @@ Breakfast/brunch today consisted of another round of Gabriel's awesome [Almond C
 
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/sAoMCsT.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Pumpkin Bread” src="http://i.imgur.com/sAoMCsT.jpg" style="max-width:274px;padding: 1px;">
+<img alt="Photo: Buckingham Palace” src="http://i.imgur.com/sAoMCsT.jpg" style="max-width:274px;padding: 1px;">
 </a>
 <a href="http://i.imgur.com/bpO1daL.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Pumpkin Bread” src="http://i.imgur.com/bpO1daL.jpg" style="max-width:274px; padding: 1px;”>
+<img alt="Photo: Buckingham Palace” src="http://i.imgur.com/bpO1daL.jpg" style="max-width:274px; padding: 1px;”>
 </a>
 <a href="http://i.imgur.com/S0gjLLL.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Challah” src="http://i.imgur.com/S0gjLLL.jpg" style="max-width:274px; padding: 1px;”>
+<img alt="Photo: Buckingham Palace” src="http://i.imgur.com/S0gjLLL.jpg" style="max-width:274px; padding: 1px;”>
 </a>
 <a href="http://i.imgur.com/3O6r7vO.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Muffins” src="http://i.imgur.com/3O6r7vO.jpg" style="max-width:274px; padding: 1px;”>
+<img alt="Photo: Buckingham Palace” src="http://i.imgur.com/3O6r7vO.jpg" style="max-width:274px; padding: 1px;”>
 </a>
 </div>
 
