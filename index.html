@@ -18,7 +18,7 @@ title: Mainpage
     		        <h3>{{ post.title }}</h3>
                 <time>{{ post.date | date: "%d %B %Y" }}</time>
                 {% if post.description %}
-                           <div class="meta" style="margin-bottom:0;margin-top:0;">{{ post.description }}</div>
+                           <div class="meta" style="margin-bottom:0;margin-top:0;"></div>
                            <div>{{ post.content truncatewords: 30 }}</div>
                        {% endif %}
     		    </a>
