@@ -20,16 +20,12 @@ Breakfast/brunch today consisted of another round of Gabriel's awesome [Almond C
 <a href="http://i.imgur.com/sAoMCsT.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: A Classic View" src="http://i.imgur.com/sAoMCsT.jpg" style="max-width:274px;">
 </a>
-
 <a href="http://i.imgur.com/bpO1daL.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: A Classic View" src="http://i.imgur.com/bpO1daL.jpg" style="max-width:274px;">
 </a>
-
-
 <a href="http://i.imgur.com/S0gjLLL.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: A Classic View" src="http://i.imgur.com/S0gjLLL.jpg" style="max-width:274px;">
 </a>
-
 <a href="http://i.imgur.com/3O6r7vO.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: A Classic View" src="http://i.imgur.com/3O6r7vO.jpg" style="max-width:274px;">
 </a>
