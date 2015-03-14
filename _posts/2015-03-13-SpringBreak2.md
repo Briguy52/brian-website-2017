@@ -5,9 +5,11 @@ description: Hello
 ---
 
 <a href="Images/2015.03.13/amaretto.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
-<img alt="Photo: Buckingham Palace” src="http://nmlin.org/Images/2015.03.13/amaretto.jpg" style="max-width:274px;">
+<img alt="Photo: A Classic View" src="http://nmlin.org/Images/2015.03.13/amaretto.jpg" style="max-width:274px;">
+</a:>
 <a href="Images/2015.03.13/glazed.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: Buckingham Palace” src="http://nmlin.org/Images/2015.03.13/glazed.jpg" style="max-width:274px;">
+</a>
 
 Last Wednesday, we had a nice brunch at Monut’s on Ninth Street, just a block down from work. All three of us ordered the ‘Ooey Gooey Gouda’ bagel sandwich (had to get it b/c of the name) as well as a donut. Both Austin and Gabe opted for the Amaretto whereas years of Krispy Kreme samples guided me towards the simple glazed donut.
 
@@ -17,3 +19,4 @@ Overall, it’s a cool place (will post some shots of the interior and exterior 
 
 <a href="Images/2015.03.13/gouda.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
 <img alt="Photo: Buckingham Palace” src="http://nmlin.org/Images/2015.03.13/gouda.jpg" style="max-width:550px;">
+</a>
