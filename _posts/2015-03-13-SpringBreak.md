@@ -5,12 +5,6 @@ title: Spring Break Unbroken- A 2015 Spring Break Recap!
 
 <img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.03.13/betterbamboo.jpg" style="max-width:630px;">
 
-body{position: absolute;
-margin-left: auto;
-margin-right: auto;
-left: 0;
-right: 0;}
-
 <div style="text-align:center; position: absolute;
 margin-left: auto;
 margin-right: auto;
@@ -28,3 +22,5 @@ Pictured above is a nicely hidden stand of bamboo trees in the Asiatic Pavilion 
 On a brighter note, I still think it’s funny how the #1 thing to do in Durham (according to TripAdvisor) is to visit the Duke Gardens. And not just that- about half of the top 10 are venues associated with Duke, like the Chapel and Cameron Indoor Stadium. Ah, the inseparable Duke and Durham. 
 
 <img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.03.13/okra.jpg" style="max-width:315px;">
+
+</div>
