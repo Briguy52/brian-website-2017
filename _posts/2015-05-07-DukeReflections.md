@@ -8,9 +8,7 @@ title: First Year Reflections
 Well, it’s been a short year and a long year. I can hardly remember the first time I practiced my ‘Randolph-puddle-parkour’ to avoid the waters that would strategically cover the entire entrance to the archway. More recently, with North Carolina’s pollen storms, all of Duke’s puddles, this one included, received curious whitish-yellow swirls of the allergy-inducing stuff. On the topic of pollen, I must include an exchange I happened to eavesdrop upon on move-out day (note: not accurate word-for-word):
 
 >Daughter: Mom, see all that yellow stuff along the wall? That’s pollen!
-
 >Mom: What’s pollen?
-
 >Daughter: It’s the stuff that bees make!
 
 As you can see, Duke is a very diverse school, in more ways than one. 
