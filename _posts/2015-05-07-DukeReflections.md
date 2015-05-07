@@ -15,7 +15,7 @@ Well, it’s been a short year and a long year. I can hardly remember the first 
 
 As you can see, Duke is a very diverse school, in more ways than one. 
 
-<img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.05.05/rainyneigbhorhoodfour.jpg" style="max-width:630px;">
+<img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.05.07/rainyneigbhorhoodfour.jpg" style="max-width:630px;">
 
 But back on topic- though so much happened, it’s hard for me to look back and really identify what did. I went to classes. I skipped classes. I went to work, avoided inchworm obstacle courses, and painstakingly scanned and rendered fossils dating back to times older than I can imagine and with scientific names too hard for me to pronounce. 
 
