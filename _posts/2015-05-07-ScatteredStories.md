@@ -75,3 +75,7 @@ Ah, GA Down Under. What a magnificent place. Wish I could have come here more of
 <img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.05.07/panko.jpg" style="max-width:630px;">
 
 Panko-breaded chicken parmesan! Very tasty, but damn that Harris Teeter chicken breast was the toughest thing ever. 
+
+<img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.05.07/face.jpg" style="max-width:630px;">
+
+It’s been a great semester, see you this Fall!
