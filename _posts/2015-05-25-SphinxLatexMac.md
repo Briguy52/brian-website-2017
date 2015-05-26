@@ -3,7 +3,7 @@ layout: post_page
 title: Sphinx for Mac - PDF Creation with LaTeX
 ---
 
-##### Introduction
+#### Introduction
 
 This will be a close-to-comprehensive guide on how to get started creating PDF and LaTeX files from .rst (reStructuredText) using Sphinx. 
 
@@ -17,7 +17,7 @@ Recommended knowledge:
 
 Note: While you don’t need to be familiar with LaTeX formatting (since Sphinx and MacTeX will do that for you), if you need to do any ‘White Box’ work, it will come in handy!
 
-###### Installation 
+#### Installation 
 
 Your Mac should come with Python 2.7 installed. You may install Python 3 if you wish, but this writeup will use Python 2.7 because that is what I have.
 
@@ -25,7 +25,7 @@ Install Sphinx according to the [documentation](http://sphinx-doc.org/latest/ins
 
 Download and install [MacTeX](https://tug.org/mactex/). Make sure you download the package with Safari and have sufficient space on your computer. I believe the full package (which you need) takes up around 4-5 gb of space. Note: if space is an issue, you may want to consider avoiding LaTeX and trying rst2pdf or a similar Sphinx extension. However, these alternatives will not be covered in this tutorial.
 
-###### Anatomy of a Sphinx Main Directory
+#### Anatomy of a Sphinx Main Directory
 
 There are many files and folders created within your Main Directory. In this writeup, we will only concern ourselves with the relevant ones: conf.py, Makefile, _build, and index.rst. 
 
@@ -45,7 +45,7 @@ The **_build** (builddir) folder contains the files that we build. This includes
 
 Finally, you will need an **index.rst** file. This has to be an .rst or .txt file (depending on your config settings) and the name does not matter as long as it’s consistent with conf.py. This file will be formatted in reStructuredText (hence the .rst extension) and contains the actual content that will be translated into LaTeX and then PDF.
 
-###### Config and Makefile Setup
+#### Config and Makefile Setup
 
 Your Makefile should come with the correct commands preset. In case you’re missing ‘latex’ and ‘latexpdf’, copy in the following:
 
@@ -66,7 +66,7 @@ Note that `latexpdf` contains the `latex` command along with the `make all-pdf` 
 
 In your `conf.py` file, you should find a section entitled **Options for LaTeX output**. Read through it and modify the presets to fit your project. For most, that means specifying your desired document title and source in the `latex_document` setting. 
 
-###### .tex and PDF Creation
+#### .tex and PDF Creation
 
 If all your files are the correct places (i.e. from your directory you should be able to see Makefile, conf.py, _build, and index.rst), all that you need to do now is type in:
 
@@ -74,7 +74,7 @@ If all your files are the correct places (i.e. from your directory you should be
 
 It will take a couple moments, but then you will find your freshly created filename.pdf in your _build/latex folder (along with all the intermediate files). 
 
-###### pdflatex Issues
+#### pdflatex Issues
 
 You may have encountered an error about `pdflatex not found` or something of the sort. `pdflatex` is an executable that comes along with MacTeX. But even after installing the full MacTeX package, I was still getting this error! 
 
@@ -87,7 +87,7 @@ User Dave Dyer suggested entering the following lines into your terminal:
 
 And that did it for me! Basically, even though you have the `pdflatex` file installed, Sphinx can’t find it when you run the `make latexpdf` command. To fix this, you simply need to specify the correct file paths using the `ln` command (link). 
 
-###### Creating Multiple PDFs 
+#### Creating Multiple PDFs 
 
 You may want to create multiple PDFs using multiple .rst files. The intuitive way to do this would be to simply go folder by folder and repeat this process. (I am currently working on a more elegant solution that retains the single ‘make latexpdf’ process).
 
@@ -122,7 +122,7 @@ As the name implies, `make all-pdf` converts all the .tex files in a folder to P
 This [Google groups post](https://groups.google.com/forum/#!topic/sphinx-users/XNnVdAhTC7A) started by Lenz Grimmer was especially helpful to me. I recommend you give it a skim. 
 
 
-###### Closing
+#### Closing
 
 Thank you for reading this writeup! I will update this article as a I learn new things and encounter new obstacles. Pictures and screenshots will be added soon though they shouldn’t be necessary to understand the process.
 
