@@ -1,33 +1,30 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1347.57">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p3 {margin: 0.0px 0.0px 16.6px 0.0px; font: 10.0px Times; -webkit-text-stroke: #000000}
-    p.p4 {margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000}
-    p.p5 {margin: 0.0px 0.0px 6.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #042eee; -webkit-text-stroke: #042eee}
-    span.s1 {font-kerning: none}
-    span.s2 {text-decoration: underline ; font-kerning: none; color: #042eee; -webkit-text-stroke: 0px #042eee}
-    span.s3 {text-decoration: underline ; font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">--- layout: default ---</span></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p2"><span class="s1"></span><br></p>
-<p class="p3"><span class="s1"><b>{{ page.date | date: "%d %B %Y" }}</b></span></p>
-<p class="p4"><span class="s1"><b>{{page.title}}</b></span></p>
-<p class="p1"><span class="s1">{{ content }}</span></p>
-<p class="p5"><span class="s1"></span><br></p>
-<p class="p1"><span class="s1"><b>{% if page.previous %} </b><a href="file:///Users/BrianLin/Downloads/vbc/_layouts/%7B%7B%20page.previous.url%20%7D%7D"><span class="s2"><b>{{ page.previous.title }}</b></span></a><b> {% endif %} {% if page.next %}</b></span></p>
-<p class="p6"><span class="s3"><a href="file:///Users/BrianLin/Downloads/vbc/_layouts/%7B%7B%20page.next.url%20%7D%7D"><b>{{ page.next.title }}<span class="Apple-converted-space"> </span></b></a></span></p>
-<p class="p1"><span class="s1"><b>{% endif %}<span class="Apple-converted-space"> </span></b></span></p>
-</body>
-</html>
+---
+layout: default
+---
+<main class="content">
+    <section class="container">
+    	<div class="row-fluid">
+    		<article class="home-icon">
+				<a href="/">
+					<i class="icon-home"></i> 
+				</a>
+			</article>
+			<article class="post">
+				<h2 class="content">{{page.title}}</h2>
+				<h5>{{ page.date | date: "%d %B %Y" }}</h5>
+				<section>
+					{{ content }}
+					<hr>
+				</section>
+				<section style="margin-bottom: 2em;margin-left: auto;position: absolute;margin-right: auto;">
+					{% if page.previous %} 
+							<a rel="prev" class="a-hover"href="{{ page.previous.url }}"><i class="icon-arrow-left"></i> {{ page.previous.title }}</a>
+						{% endif %}
+						{% if page.next %} 
+							<a rel="next" style="float:right" class="a-hover"href="{{ page.next.url }}">{{ page.next.title }} <i class="icon-arrow-right"></i></a>
+					{% endif %}
+				</section>
+			</article>
+		</div>
+	</section>
+</main>
