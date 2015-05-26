@@ -13,7 +13,7 @@ Recommended knowledge:
 >
 > Familiarity with basic Mac Terminal concepts and commands (`open,cd,ls,pwd,sudo`,etc.) 
 >
->You can visit Duke’s [Unix Tutorial](http://pundit.pratt.duke.edu/wiki/UNIX_Tutorial) for some good examples and explanations. 
+> You can visit Duke’s [Unix Tutorial](http://pundit.pratt.duke.edu/wiki/UNIX_Tutorial) for some good examples and explanations. 
 >
 > A good deal of patience and Google-fu when you get stuck!
 
@@ -84,7 +84,7 @@ After some Googling, I found a very helpful [post](https://support.rstudio.com/h
 
 User Dave Dyer suggested entering the following lines into your terminal:
 
-	sudo ln -s /Library/TeX/Distributions/.DefaultTeX/Contents/Programs/texbin /usr/	texbin
+	sudo ln -s /Library/TeX/Distributions/.DefaultTeX/Contents/Programs/texbin/usr/texbin
 	sudo ln -s /usr/texbin/pdflatex /usr/bin/pdflatex 
 
 And that did it for me! Basically, even though you have the `pdflatex` file installed, Sphinx can’t find it when you run the `make latexpdf` command. To fix this, you simply need to specify the correct file paths using the `ln` command (link). 
