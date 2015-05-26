@@ -11,7 +11,7 @@ Recommended knowledge:
 
 > A basic understanding of programming (Python, Matlab, etc.)
 >
-> Familiarity with basic Mac Terminal concepts and commands (`open,cd,ls,pwd,sudo`,etc.) You can visit Duke’s [Unix Tutorial](http://pundit.pratt.duke.edu/wiki/UNIX_Tutorial) for some good examples and explanations. 
+> Familiarity with basic Mac Terminal concepts and commands (`open,cd,ls,pwd,sudo`,etc.) >You can visit Duke’s [Unix Tutorial](http://pundit.pratt.duke.edu/wiki/UNIX_Tutorial) for >some good examples and explanations. 
 >
 > A good deal of patience and Google-fu when you get stuck!
 
