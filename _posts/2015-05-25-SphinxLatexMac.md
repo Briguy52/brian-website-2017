@@ -13,7 +13,7 @@ Recommended knowledge:
 >
 > Familiarity with basic Mac Terminal concepts and commands (`open,cd,ls,pwd,sudo`,etc.) You can visit Duke’s [Unix Tutorial](http://pundit.pratt.duke.edu/wiki/UNIX_Tutorial) for some good examples and explanations. 
 >
-> A good deal of patience and Google-fu when you get stuck!
+> A good deal of patience and Google-fu for when you get stuck!
 
 Note: While you don’t need to be familiar with LaTeX formatting (since Sphinx and MacTeX will do that for you), if you need to do any ‘White Box’ work, it will come in handy!
 
