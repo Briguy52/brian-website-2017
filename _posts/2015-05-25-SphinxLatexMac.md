@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Sphinx Guide for Mac - PDF Creation with LaTeX
+title: Sphinx for Mac - PDF Creation with LaTeX
 ---
 
 ##### Introduction
