@@ -9,7 +9,7 @@ This will be a close-to-comprehensive guide on how to get started creating PDF a
 
 Recommended knowledge:
 
-> A basic understanding of programming (Python, Matlab, etc.)
+> A basic understanding of programming (preferably Python)
 >
 > Familiarity with basic Mac Terminal concepts and commands (`open,cd,ls,pwd,sudo`,etc.) 
 >
