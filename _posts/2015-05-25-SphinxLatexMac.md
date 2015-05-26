@@ -7,6 +7,7 @@ title: Sphinx Guide for Mac - PDF Creation with LaTeX
 This will be a close-to-comprehensive guide on how to get started creating PDF and LaTeX files from .rst (reStructuredText) using Sphinx. 
 
 Recommended knowledge:
+
 >A basic understanding of programming (Python, Matlab, etc.)
 >Familiarity with basic Mac Terminal concepts and commands (`open,cd,ls,pwd,sudo`,etc.) You can visit Duke’s [Unix Tutorial](http://pundit.pratt.duke.edu/wiki/UNIX_Tutorial) for some good examples and explanations. 
 >A good deal of patience and Google-fu when you get stuck!
@@ -114,6 +115,8 @@ And let’s convert everything there to PDF:
 	make all-pdf
 
 As the name implies, `make all-pdf` converts all the .tex files in a folder to PDFs. If you have multiple .rst files, have them output their .tex files to the same folder (such as `/home/_build/latex`) and then run `make all-pdf` at the very end.
+
+This [Google groups post](https://groups.google.com/forum/#!topic/sphinx-users/XNnVdAhTC7A) started by Lenz Grimmer was especially helpful to me. I recommend you give it a skim. 
 
 
 ###### Closing
