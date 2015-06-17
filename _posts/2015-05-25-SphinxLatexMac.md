@@ -5,7 +5,7 @@ title: Sphinx for Mac - PDF Creation with LaTeX
 
 #### Introduction
 
-This will be a close-to-comprehensive guide on how to get started creating PDF and LaTeX files from .rst (reStructuredText) using Sphinx. 
+This will be a close-to-comprehensive guide on how to get started creating PDF and LaTeX files from .rst (reStructuredText) using Sphinx. If you're not familiar with Sphinx, it's a documentation generator that takes .rst files and converts them into other formats (such as HTML, PDF, LaTeX, etc.)
 
 Recommended knowledge:
 
