@@ -1,11 +1,11 @@
 ---
 layout: post_page
-title: The China Collage Part I - Canon Store
+title: The China Collage Part I - Guangzhou
 ---
 
-Canon is one of the most well-known modern camera manufacturers. Throughout major Chinese cities, you can find Canon stores in high-end shopping areas. 
+Guangzhou is the third largest city in China, after Beijing and Shanghai. It is located in the south of China and the primary language spoken is Cantonese Chinese. 
 
-<img alt="Photo: Canon" src="http://nmlin.org/Images/2015.08.02/front.jpg" style="max-width:630px;">
+<img alt="Photo: Guangzhou" src="http://nmlin.org/Images/2015.08.02/front.jpg" style="max-width:630px;">
 
 Canon (キヤノン株式会社) is a Japanese company that makes other imaging products (such as printers, fax machines, etc.) However, their most notable consumer product would be the Canon camera. As a natural extension of the product, the act of *photography* is the focus of the store.
 
