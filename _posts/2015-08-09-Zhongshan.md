@@ -1,8 +1,8 @@
 ---
 layout: post_page
-title: China Collage Part III - Zhongshan
+title: Zhongshan | China 15
 ---
-This is a writeup of the Pilot Vanishing Point ‘Special Alloy’ Fountain Pen
+Zhongshan (中山) is a city in the south of China. It's a 45 minute bullet train (高铁) ride from Guangzhou's main train station. 
 
 <img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/1.jpg" style="max-width:630px;">
 

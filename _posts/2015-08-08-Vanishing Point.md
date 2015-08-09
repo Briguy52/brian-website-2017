@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Pen Reviews - Pilot Vanishing Point
+title: Pilot Vanishing Point | Fountain Pen
 ---
 This is a writeup of the Pilot Vanishing Point ‘Special Alloy’ Fountain Pen
 
