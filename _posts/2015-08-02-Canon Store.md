@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: The China Collage Part I - Canon Store
+title: Canon Store | China Travels 2015
 ---
 
 Canon is one of the most well-known modern camera manufacturers. Throughout major Chinese cities, you can find Canon stores in high-end shopping areas. 
