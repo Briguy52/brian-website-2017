@@ -48,7 +48,7 @@ My pen preferences lean to heavy, modern-looking, metal pens. This pen checks of
 Like the Lamy Safari, this pen tries to force you to conform to the ‘standard’ tripod grip. I refuse. I have this overhand grip where my pointer finger rests on top, inline with the nib. My thumb and middle finger form some strange tripod on either flank. I just place my pointer finger on top of the clip, thumb and middle finger where they normally go, and all is fine for me. I do pretty much the same thing with the Safari and it doesn’t bother me much. Would I prefer the clip somewhere else or removed entirely? Yes, but not enough to dissuade me from purchasing the pen.
 
 
-####Writing Experience
+###Writing Experience
 
 
 <img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/3.jpg" style="max-width:630px;">
