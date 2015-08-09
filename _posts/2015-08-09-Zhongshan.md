@@ -4,8 +4,28 @@ title: Zhongshan | China 15
 ---
 Zhongshan (中山) is a city in the south of China. It's a 45 minute bullet train (高铁) ride from Guangzhou's main train station. 
 
-<img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/1.jpg" style="max-width:630px;">
+<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/tower.jpg" style="max-width:630px;">
 
-Most people are familiar with the standard 14k or 18k Vanishing Point pens produced by Pilot. New ones generally run for around $120-140 online. 
+The downtown area is clustered with electronics shops and all sorts of inflatable advertisements. Go beyond the downtown area and you can find thick mazes of small gray houses. 
 
-However, Pilot also produces a ‘Special Alloy’ steel nib Capless that is only available domestically in Japan, retailing for around $70. This is a review of that pen.
+<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/door.jpg" style="max-width:630px;">
+
+I also visited the nearby Sun Yat-sen High School. A completely different place- it looks like the background for a high school anime. 
+
+<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school1.jpg" style="max-width:630px;">
+
+Palm trees are a nice feature of southern China. 
+
+<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school2.jpg" style="max-width:630px;">
+
+Lots and lots of green here. 
+
+<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school3.jpg" style="max-width:630px;">
+
+The sign at the front. 
+
+<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/sys.jpg" style="max-width:630px;">
+
+There's quite a lot of lotus ponds nearby. The place we visited also offered Chinese bananas. They're still yellow, but a lot chubbier than those found in U.S. supermarkets. The flavor was similar, but had a much fuller, tangy taste that reminded me of papaya almost. 
+
+<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/lotus.jpg" style="max-width:630px;">
