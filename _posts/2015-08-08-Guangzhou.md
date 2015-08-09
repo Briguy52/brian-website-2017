@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: The China Collage Part I - Guangzhou
+title: The China Collage Part II - Guangzhou
 ---
 
 Guangzhou is the third largest city in China, after Beijing and Shanghai. It is located in the south of China and the primary language spoken is Cantonese Chinese. 
