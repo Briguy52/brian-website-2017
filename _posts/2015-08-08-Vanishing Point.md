@@ -10,7 +10,7 @@ Most people are familiar with the standard 14k or 18k Vanishing Point pens produ
 
 However, Pilot also produces a ‘Special Alloy’ steel nib Capless that is only available domestically in Japan, retailing for around $70. This is a review of that pen.
 
-####Anticipated Questions
+###Anticipated Questions
 
 **How does this compare to the gold nib Pilot Vanishing Point?** 
 I don’t own any gold nib pens so I can’t offer any insight. If I’m able to acquire one, I will update this post with that information.
@@ -19,13 +19,13 @@ I don’t own any gold nib pens so I can’t offer any insight. If I’m able to
 Via EMS, about 3 days. Note that it takes a day or two to communicate with the retailer after you submit the order to work out shipping and all that. But once it’s shipped and I received a tracking number, it took about 3 days for the package to travel from Japan to Chicago.
 
 **Who did you buy it from and would you recommend them?**
-I went with ‘Komamono Honpo’ on Rakuten. Yes, I would definitely recommend them but with one caveat (see end of this post).
+I went with ‘Komamono Honpo’ on Rakuten. Yes, I would definitely recommend them.
 
 **Do you like this pen? Would you buy it again if you lost it?**
 Yes I like this pen. I would buy it again if I lost it. 
 
 
-####Aesthetics and Design
+###Aesthetics and Design
 
 <img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/2.jpg" style="max-width:630px;">
 
@@ -34,7 +34,7 @@ If you’ve ever used a standard Vanishing Point, you’ve used this pen. The on
 This is a a beautiful, shiny, yet professional-looking pen. The Rhodium accents offer some eye-catching highlights without becoming gaudy, raven-attracting bling. The black lacquered body offers a wonderfully polished reflective surface. When I’m sitting in my office, there are body-length silver streaks from the fluorescent lights above me. Raden Stripes anyone? When I’m sketching on the train, I can see buildings and night lights blur by. Raden Galaxy anyone? When I’m sitting by a window on a sunny day, it takes on facets of light and greyscale shades. Raden Water anyone? Okay, that’s all a bit of a stretch, but this is a very good looking pen. In addition to this Black model, Pilot also offers the steel nib Capless in Silver, Yellow, and perhaps some other colors (all with Rhodium trim). Now if only they made lacquered Metropolitans…
 
 
-####Durability and Construction
+###Durability and Construction
 
 
 <img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/4.jpg" style="max-width:630px;">
@@ -62,33 +62,33 @@ Is this a ‘super smooth’ writer? No. Out of all my fountain pens, my Lamy Sa
 Overall, it offers a decent writing experience that I can’t complain about (post-adjustment). 
 
 
-####Filling System
+###Filling System
 
 This pen comes with a Pilot black ink cartridge in addition to an empty cartridge with a nice steel sleeve. I know some models come with a CON-50 converter, but this one didn’t. That’s fine with me since the CON-50 holds less ink than a cartridge and I fill all my converters with a syringe anyway.
 
 The metal sleeve is a nice touch. The VP works perfectly fine with or without it, and it technically slows down your cartridge-refilling process, but I love that it’s there. When I screw open the pen, all I can see is stainless steel and that makes me inexplicably happy. 
 
-####Value and Overall Impressions
+###Value and Overall Impressions
 
 <img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/8.jpg" style="max-width:630px;">
 
 I purchased this pen from the Rakuten seller ‘Komamono-Honpo’ as part of a larger order. The pen itself costs $71 plus shipping. My total order consisted of:
 
-One Pilot Capless Fine fountain pen
+	One Pilot Capless Fine fountain pen
 
-Two bottles of Iroshizuku Ink (Murasaki-Shikibu and Take-Sumi)
+	Two bottles of Iroshizuku Ink (Murasaki-Shikibu and Take-Sumi)
 
-Two bottles of Sailor Jentle Four Seasons Ink (Souten and Oku-Yama)
+	Two bottles of Sailor Jentle Four Seasons Ink (Souten and Oku-Yama)
 
-One bottle of Pilot Red (30mL) Ink 
+	One bottle of Pilot Red (30mL) Ink 
 
-Four Pilot Petit1 pocket fountain pens
+	Four Pilot Petit1 pocket fountain pens
 
 And this came out to a **grand total of $134**, shipped within 3 days from Japan to Chicago. That’s around the price of a brand new gold Vanishing Point! If I were to choose between a gold nib upgrade or five bottles of ink and four excellent pocket pens, I’d take the ink and pens any day. 
 
 Also, keep in mind that you can order a replacement gold nib unit for around $65! I may consider buying a Medium gold nib for journaling and note-taking in the future. 
 
-####Alternatives to Consider
+###Alternatives to Consider
 
 As a side note, there are some other very noteworthy pens to consider purchasing from Rakuten that are similar to this one. 
 
@@ -98,21 +98,21 @@ The **Pilot Fermo** is a classier version of the Vanishing Point, at least in my
 
 And finally, the **Pilot Custom 74** features a gold nib for around $70. If you place a lot of importance on writing experience, I would recommend this over the Steel Capless (at least when it comes to $70 pens from Rakuten). 
 
-####Note on Buying from Rakuten
+###Note on Buying from Rakuten
 
 If you weren’t aware, the buying process is as follows:
 
-Go on preferred retailer’s website and add items to your cart.
+	Go on preferred retailer’s website and add items to your cart.
 
-Enter in your payment and shipping info. Submit your order.
+	Enter in your payment and shipping info. Submit your order.
 
-Retailer calculates the shipping cost (based off of weight) and emails you a confirmation email with the shipping cost. 
+	Retailer calculates the shipping cost (based off of weight) and emails you a confirmation email with the shipping cost. 
 
-You either reply to confirm or ignore it. 
+	You either reply to confirm or ignore it. 
 
-After you confirm, they send you the tracking info.
+	After you confirm, they send you the tracking info.
 
-Wait a couple days and receive your package. 
+	Wait a couple days and receive your package. 
 
 Packaging is very good and the order came in very quickly (especially considering that this is from Japan to Chicago). The outer box contained a smaller box with a layer of bubble wrap sandwiched between. Within the smaller box was all my items individually bubble wrapped. I could probably toss this down the stairs and not break a single bottle of ink. Very impressed. 
 
