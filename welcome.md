@@ -1,5 +1,5 @@
 ---
-layout: post_page
+layout: default
 title: Zhongshan | China 15
 ---
 Zhongshan (中山) is a city in the south of China. It's a 45 minute bullet train (高铁) ride from Guangzhou's main train station. 
