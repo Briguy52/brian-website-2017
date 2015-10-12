@@ -1,31 +1,28 @@
 ---
 layout: default
-title: Zhongshan | China 15
+title: Greetings from Bri@nmlin.org! 
 ---
-Zhongshan (中山) is a city in the south of China. It's a 45 minute bullet train (高铁) ride from Guangzhou's main train station. 
+# What am I working on?
 
-<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/tower.jpg" style="max-width:630px;">
+### Duke Robotics
 
-The downtown area is clustered with electronics shops and all sorts of inflatable advertisements. Go beyond the downtown area and you can find thick mazes of small gray houses. 
+<img alt="Photo: Old Stack" src="http://nmlin.org/Images/2015.10.12/oldStack.jpg" style="max-width:630px;">
 
-<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/door.jpg" style="max-width:630px;">
+We (the Electrical Team) are currently re-designing our hardware stack and scrapping our old, lopsided, tower (see above) in favor of a new design. We also just opening up the DVL ([Doppler Velocity Log](https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking)) and spec'd out some really expensive water-proof cables from SEACON.
 
-I also visited the nearby Sun Yat-sen High School. A completely different place- it looks like the background for a high school anime. 
+### Wearables
 
-<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school1.jpg" style="max-width:630px;">
+<img alt="Photo: rpi Case" src="http://nmlin.org/Images/2015.10.12/rpiCase.png" style="max-width:630px;">
 
-Palm trees are a nice feature of southern China. 
+I'm working with grad student Ben Stoddard and Prof. Landon Cox on a wearable 'life-logger' device. The goal is to create an extremely resource-efficient camera badge that only takes pictures when certain conditions are met (using data from an infra-red sensor, light sensor, and accelerometer connected to a Raspberry Pi). 
 
-<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school2.jpg" style="max-width:630px;">
+We just completed the bulk of the hardware stage (lots of soldering and breathing in soldeirng smoke...) and right now I'm using **Blender** to design a hinged case for the device. 
 
-Lots and lots of green here. 
+### School
 
-<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school3.jpg" style="max-width:630px;">
+<img alt="Photo: rpi Case" src="http://nmlin.org/Images/2015.10.12/strand.png" style="max-width:630px;">
 
-The sign at the front. 
+I'm working my way through **Data Structures and Algorithms**, day by day. We're covering Linked Lists right now and our tasked with completing the DNA assignment. This involves simulating the process of DNA recombination by replacing a given restriction enzyme sequence with a splicee sequence. Other than writing our own Linked List based class, we're also doing a lot of benchmarking to empirically determine the runtime patterns due to a variety of factors (changing memory alloted to Java, size of starting DNA sequences, etc.) 
 
-<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/sys.jpg" style="max-width:630px;">
+<img alt="Photo: rpi Case" src="http://nmlin.org/Images/2015.10.12/benchmark.png" style="max-width:630px;">
 
-There's quite a lot of lotus ponds nearby. The place we visited also offered Chinese bananas. They're still yellow, but a lot chubbier than those found in U.S. supermarkets. The flavor was similar, but had a much fuller, tangy taste that reminded me of papaya almost. 
-
-<img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/lotus.jpg" style="max-width:630px;">
