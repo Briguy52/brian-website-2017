@@ -1,8 +1,8 @@
 ---
 layout: post_page
-title: Greetings from Bri@nmlin.org! 
+title: Bri@nmlin.org
 ---
-# What am I working on?
+## What am I working on?
 
 ### Duke Robotics
 
