@@ -17,6 +17,12 @@ I'm working with grad student Ben Stoddard and Prof. Landon Cox on a wearable 'l
 
 We just completed the bulk of the hardware stage (lots of soldering and breathing in soldeirng smoke...) and right now I'm using **Blender** to design a hinged case for the device. 
 
+## microCT 
+
+<img alt="Photo: rpi Case" src="http://nmlin.org/Images/2015.10.12/imageJ.png" style="max-width:630px;">
+
+As part of the Duke Lemur Center Divison of Fossil Primates, I'm making my way through a batch of tiny bat skulls and jaw bones from the American Museum of Natural History. I cover the process from start to finish (minus the digging for fossils in Egypt part...), beginning by mounting the specimens in foam, scanning them with the microCT, reconstructing the image slices, and then rendering and processing these slices as a polished 3D surface object. This is then uploaded to [MorphoSource](MorphoSource.org) where researchers, students, or curious people anywhere can access and download these scans and models for free. 
+
 ## School
 
 <img alt="Photo: rpi Case" src="http://nmlin.org/Images/2015.10.12/strand.png" style="max-width:630px;">
