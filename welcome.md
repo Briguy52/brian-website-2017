@@ -7,7 +7,7 @@ title: What am I working on?
 
 <img alt="Photo: Old Stack" src="http://nmlin.org/Images/2015.10.12/oldStack.jpg" style="max-width:630px;">
 
-We (the Electrical Team) are currently re-designing our hardware stack and scrapping our old, lopsided, tower (see above) in favor of a new design. We also just opening up the DVL ([Doppler Velocity Log](https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking)) and spec'd out some really expensive water-proof cables from SEACON.
+We (the Electrical Team) are currently re-designing our hardware stack and scrapping our old, lopsided, tower (see above) in favor of a new design. We also just opened up the DVL ([Doppler Velocity Log](https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking)) and spec'd out some water-proof cables from SEACON.
 
 ## Wearables
 
