@@ -1,16 +1,15 @@
 ---
 layout: post_page
-title: Bri@nmlin.org
+title: What am I working on?
 ---
-## What am I working on?
 
-### Duke Robotics
+## Duke Robotics
 
 <img alt="Photo: Old Stack" src="http://nmlin.org/Images/2015.10.12/oldStack.jpg" style="max-width:630px;">
 
 We (the Electrical Team) are currently re-designing our hardware stack and scrapping our old, lopsided, tower (see above) in favor of a new design. We also just opening up the DVL ([Doppler Velocity Log](https://en.wikipedia.org/wiki/Acoustic_Doppler_current_profiler#Bottom_tracking)) and spec'd out some really expensive water-proof cables from SEACON.
 
-### Wearables
+## Wearables
 
 <img alt="Photo: rpi Case" src="http://nmlin.org/Images/2015.10.12/rpiCase.png" style="max-width:630px;">
 
@@ -18,7 +17,7 @@ I'm working with grad student Ben Stoddard and Prof. Landon Cox on a wearable 'l
 
 We just completed the bulk of the hardware stage (lots of soldering and breathing in soldeirng smoke...) and right now I'm using **Blender** to design a hinged case for the device. 
 
-### School
+## School
 
 <img alt="Photo: rpi Case" src="http://nmlin.org/Images/2015.10.12/strand.png" style="max-width:630px;">
 
