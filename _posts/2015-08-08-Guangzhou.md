@@ -3,7 +3,7 @@ layout: post_page
 title: Guangzhou | China 15
 ---
 
-Guangzhou (广州) is the third largest city in China, after Beijing and Shanghai. It is located in the south of China and the primary language spoken is Cantonese Chinese. 
+Guangzhou (广州) is the third largest city in China, after Beijing and Shanghai. It is located in the south of China and the primary language is Cantonese Chinese. 
 
 <img alt="Photo: Guangzhou" src="http://nmlin.org/Images/2015.08.02/river.jpg" style="max-width:630px;">
 
@@ -11,7 +11,7 @@ The photo above shows a stadium located next to the Guangzhou Tower (广州塔).
 
 <img alt="Photo: Guangzhou" src="http://nmlin.org/Images/2015.08.02/clothes.jpg" style="max-width:630px;">
 
-Guangzhou is hot and humid. It's 闷热 - so stifling hot that a shower is warranted after every expedition outdoors. You'll see clothes hung out to dry on the balconies- this is a dorm at South China Normal University (华师大学) where I stayed for some weeks (check out that blue sky though)
+Guangzhou is hot and humid. It's 闷热 - so stifling hot that a shower is warranted after every expedition outdoors. You'll see clothes hung out to dry on the balconies- this is a dorm at South China Normal University (华师大学) where I stayed for some weeks (check out that blue sky though!)
 
 <img alt="Photo: Guangzhou" src="http://nmlin.org/Images/2015.08.02/pigs.jpg" style="max-width:630px;">
 
