@@ -10,11 +10,11 @@ The downtown area is clustered with electronics shops and all sorts of inflatabl
 
 <img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/door.jpg" style="max-width:630px;">
 
-I also visited the nearby Sun Yat-sen High School. A completely different place- it looks like the background for a high school anime. 
+I also visited the nearby Sun Yat-Sen High School. This places looks unreal! It's like the backdrop of a Japanese high school drama or anime. 
 
 <img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school1.jpg" style="max-width:630px;">
 
-Palm trees are a nice feature of southern China. 
+There's an a random boat in the pond!
 
 <img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school2.jpg" style="max-width:630px;">
 
@@ -22,7 +22,7 @@ Lots and lots of green here.
 
 <img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school3.jpg" style="max-width:630px;">
 
-The sign at the front. 
+The sign at the front entrance. 
 
 <img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/sys.jpg" style="max-width:630px;">
 
