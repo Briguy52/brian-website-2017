@@ -11,11 +11,13 @@ We (the Electrical Team) are currently re-designing our hardware stack and scrap
 
 ## Wearables
 
-<img alt="Photo: rpi Case" src="http://nmlin.org/Images/2015.10.12/rpiCase.png" style="max-width:630px;">
+<img alt="Photo: rpi Lid" src="http://nmlin.org/Images/2015.10.12/lidPicture.png" style="max-width:630px;">
 
 I'm working with grad student [Ben Stoddard](https://sites.google.com/site/bcstodds/home) and [Prof. Landon Cox](https://users.cs.duke.edu/~lpcox/) on a wearable 'life-logger' device. The goal is to create an extremely resource-efficient camera badge that only takes pictures when certain conditions are met (using data from an infra-red sensor, light sensor, and accelerometer connected to a Raspberry Pi). 
 
 We just completed the bulk of the hardware stage (lots of soldering and breathing in soldeirng smoke...) and right now I'm using **Blender** to design a hinged case for the device. 
+
+<img alt="Photo: rpi Case" src="http://nmlin.org/Images/2015.10.12/rpiCase.png" style="max-width:630px;">
 
 ## microCT 
 
