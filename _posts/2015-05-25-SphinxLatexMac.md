@@ -1,6 +1,6 @@
 ---
 layout: post_page
-title: Sphinx for Mac - PDF Creation with LaTeX
+title: LaTeX PDF Creation with Sphinx
 section-type: post
 category: tutorials
 tags: ["sphinx", "latex", "tutorials", "pdf", "python", "documentation"]
