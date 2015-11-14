@@ -29,7 +29,7 @@ paginate: 15
 
 paginate_path: "blog/page:num"
 
-post-preview-words: 200
+post-preview-words: 128
 
 fb-share: True
 twitter-share: True
@@ -57,7 +57,7 @@ events:
 
 
 # First image of the Career timeline
-career-img: "/img/career/computer.png"
+#career-img: "/img/career/computer.png"
 
 # Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
 social:

@@ -17,7 +17,7 @@ I also visited the nearby Sun Yat-Sen High School. This places looks unreal! It'
 
 <img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school1.jpg" style="max-width:630px;">
 
-There's an a random boat in the pond!
+There's a random boat in the pond!
 
 <img alt="Photo: Zhongshan" src="http://nmlin.org/Images/2015.08.02/school2.jpg" style="max-width:630px;">
 
