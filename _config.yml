@@ -4,8 +4,8 @@ url: "http://briguy52.github.io"
 title: "Brian Lin"
 description: "The personal website of Brian M. Lin"
 keywords: "brian, lin, duke, university, robotics, club, engineer, hardware, 3d printing"
-favicon: "/img/catBubble.ico"
-black-favicon: "/img/favicon.png"
+favicon: "/img/favicon.ico"
+black-favicon: "/img/favicon.ico"
 #google-tracking-id: "UA-66934256-1" 
 #disqus-shortname: "aronbordin"
 
@@ -61,8 +61,8 @@ career-img: "/img/career/computer.png"
 
 # Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
 social:
-  - title: "rss"
-    url: "/feed.xml"
+  - title: "facebook"
+    url: "https://www.facebook.com/brian.lin.5059"
   - title: "github"
     url: "https://github.com/briguy52"
   - title: "linkedin"
