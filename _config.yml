@@ -6,8 +6,8 @@ description: "The personal website of Brian M. Lin"
 keywords: "brian, lin, duke, university, robotics, club, engineer, hardware, 3d printing"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/favicon.png"
-google-tracking-id: "UA-66934256-1" 
-disqus-shortname: "aronbordin"
+#google-tracking-id: "UA-66934256-1" 
+#disqus-shortname: "aronbordin"
 
 # Navigation bar links
 # Blog link in the blog and post pages will point to the blog.html#blog
@@ -17,7 +17,7 @@ pages_list:
   About: 'about'
   Blog: 'blog'
   Career: 'career'
-  Awards: 'awards'
+  #Awards: 'awards'
   Contact: 'contact'
 
 # About variables
@@ -56,22 +56,9 @@ events:
 
 
 awards:
-  - title: "OBFEP - Brazilian Physics Olympiad - Bronze Medal"
-    date: "2014"
-  - title: "OBA - Brazilian Astronomy Olympiad - Golden Medal"
-    date: "2014"
-  - title: "OBA - Brazilian Astronomy Olympiad - Silver Medal"
-    date: "2013"
-  - title: "OBI - Brazilian Computing Olympiad - Honorable Mention"
-    date: "2013"
-  - title: "OBI - Brazilian Computing Olympiad - Silver Medal"
-    date: "2012"
-  - title: "OBMEP - Brazilian Mathematical Olympiad - Bronze Medal"
-    date: "2011"
-  - title: "OBMEP - Brazilian Mathematical Olympiad - Bronze Medal"
-    date: "2010"
-  - title: "OBMEP - Brazilian Mathematical Olympiad - Bronze Medal"
-    date: "2009"
+# - title: "OBFEP - Brazilian Physics Olympiad - Bronze Medal"
+#    date: "2014"
+
 
 # First image of the Career timeline
 career-img: "/img/career/computer.png"
@@ -81,11 +68,9 @@ social:
   - title: "rss"
     url: "/feed.xml"
   - title: "github"
-    url: "https://github.com/aron-bordin"
+    url: "https://github.com/briguy52"
   - title: "linkedin"
     url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
 
 404-img: "/img/labtocat.png"
 
