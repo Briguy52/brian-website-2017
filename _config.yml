@@ -1,12 +1,12 @@
 # Site settings
 
-url: "http://aron-bordin.github.io"
-title: "Aron Bordin"
-description: "Personal website and blog of Aron Bordin, blogging mainly for tech."
-keywords: "aron, barreira, bordin, developer, researcher, blog"
+url: "http://briguy52.github.io"
+title: "Brian Lin"
+description: "The personal website of Brian M. Lin"
+keywords: "brian, lin, duke, university, robotics, club, engineer, hardware, 3d printing"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/favicon.png"
-google-tracking-id: "UA-66934256-1"
+google-tracking-id: "UA-66934256-1" 
 disqus-shortname: "aronbordin"
 
 # Navigation bar links
@@ -22,7 +22,7 @@ pages_list:
 
 # About variables
 
-me-img: "/img/me.jpg"
+me-img: "/img/pilotMountain.jpg"
 
 # Blog variables
 paginate: 15
