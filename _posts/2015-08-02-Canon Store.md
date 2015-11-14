@@ -1,6 +1,9 @@
 ---
 layout: post_page
 title: Canon Store | China 15
+section-type: post
+category: exploration
+tags: ["china", "shanghai", "canon", "store", "rainy", "weather", "photos"]
 ---
 
 Canon is one of the most well-known modern camera manufacturers. Throughout major Chinese cities, you can find Canon stores in high-end shopping areas. 

@@ -1,6 +1,9 @@
 ---
 layout: post_page
 title: Scenes from Spring Semester
+section-type: post
+category: photos
+tags: ["random", "weather", "photos", "outside"]
 ---
 
 

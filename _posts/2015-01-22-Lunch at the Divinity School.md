@@ -2,6 +2,9 @@
 layout: post_page
 title: Lunch at the Divinity School
 description: Grilled Cheese, Tomato Basil Soup, and a Nice View!
+section-type: post
+category: photos
+tags: ["food", "photos", "duke",  "restuaruants"]
 ---
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/IzQ56Yp.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 

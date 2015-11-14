@@ -2,6 +2,9 @@
 layout: post_page
 title: Warm January Weather
 description: Not something a native Chicagoan is used to...
+section-type: post
+category: weather
+tags: ["random", "weather"]
 ---
 
 <div style="line-height:0;padding:4px 0 0 1px;">

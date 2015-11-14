@@ -1,7 +1,10 @@
 ---
 layout: post_page
-title: Challah Challah Big Dolla Chevy Imapala Krav Maga la French Toast!
+title: Challah Bread French Toast
 description: aka Challah Bread French Toast
+section-type: post
+category: cooking
+tags: ["cooking", "social", "food"]
 ---
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/wZaxUtc.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 

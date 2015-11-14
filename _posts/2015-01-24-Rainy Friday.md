@@ -2,6 +2,9 @@
 layout: post_page
 title: Rainy Friday
 description: And some wet stones
+section-type: post
+category: weather
+tags: ["weather", "photos", "games"]
 ---
 
 <div style="line-height:0;padding:4px 0 0 1px;">

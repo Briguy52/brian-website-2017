@@ -1,6 +1,9 @@
 ---
 layout: post_page
 title: Guangzhou | China 15
+section-type: post
+category: exploration
+tags: ["china", "guangzhou", "2015", "photos", "travel"]
 ---
 
 Guangzhou (广州) is the third largest city in China, after Beijing and Shanghai. It is located in the south of China and the primary language is Cantonese Chinese. 

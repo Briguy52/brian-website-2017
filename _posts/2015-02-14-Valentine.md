@@ -2,6 +2,9 @@
 layout: post_page
 title: Valentine's Day- Steamed Buns, French Toast, and Pumpkin Bread!
 description: Hello
+section-type: post
+category: cooking
+tags: ["cooking", "food", "social"]
 ---
 
 <div style="line-height:0;padding:4px 0 0 1px;">

@@ -2,6 +2,9 @@
 layout: post_page
 title: Tokyo Banana and Strawberry Kit Kat!
 description: Japanese candy from Tokyo Airport
+section-type: post
+category: food
+tags: ["food", "photos", "japan", "social"]
 ---
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/4ZKoPRw.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 

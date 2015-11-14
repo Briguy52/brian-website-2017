@@ -2,6 +2,9 @@
 layout: post_page
 title: Potstickers, Miso Ramen, and More!
 description: several hours of weekend cooking
+section-type: post
+category: cooking
+tags: ["cooking", "food", "ramen", "social"]
 ---
 
 <a href="Images/2015.02.08/potstickers_2.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 

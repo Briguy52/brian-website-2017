@@ -2,6 +2,9 @@
 layout: post_page
 title: A Spring Break Sampler
 description: Hello
+section-type: post
+category: reviews
+tags: ["food", "restaurants", "reviews"]
 ---
 
 <a href="Images/2015.03.13/amaretto.jpg"> 

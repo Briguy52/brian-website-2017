@@ -1,6 +1,9 @@
 ---
 layout: post_page
 title: Spring Break 2015 - The Duke Gardens 
+section-type: post
+category: photos
+tags: ["duke garden", "spring break"]
 ---
 
 <img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.03.13/betterbamboo.jpg" style="max-width:630px;">

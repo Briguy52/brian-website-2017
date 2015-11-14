@@ -1,6 +1,9 @@
 ---
 layout: post_page
 title: Pilot Vanishing Point | Fountain Pen
+section-type: post
+category: reviews
+tags: ["fountain pens", "pilot", "black", "vanishing", "point", "review"]
 ---
 This is a writeup of the Pilot Vanishing Point ‘Special Alloy’ Fountain Pen
 

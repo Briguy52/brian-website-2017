@@ -1,6 +1,9 @@
 ---
 layout: post_page
 title: Law School Exploration
+section-type: post
+category: exploration
+tags: ["northwestern", "chicago", "law school", "exploration"]
 ---
 
 <img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.05.14/nu.jpg" style="max-width:630px;">

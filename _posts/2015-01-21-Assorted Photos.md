@@ -1,7 +1,10 @@
 ---
 layout: post_page
-title: Assorted Photos
+title: Assorted Photos | January 2015
 description: January 2015
+section-type: post
+category: photos
+tags: ["photos", "duke", "chapel", "oneplus", "one"]
 ---
 
 

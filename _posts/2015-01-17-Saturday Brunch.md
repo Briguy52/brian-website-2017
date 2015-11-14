@@ -2,7 +2,9 @@
 layout: post_page
 title: Saturday Brunch 
 description: Banana bread, eggs, sausage, and toast!
-
+section-type: post
+category: cooking
+tags: ["cooking", "social"]
 ---
 
 <div style="line-height:0;padding:4px 0 0 1px;">
