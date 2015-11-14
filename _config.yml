@@ -21,7 +21,7 @@ pages_list:
   Contact: 'contact'
 
 # About variables
-background-img: "../img/aerobat.jpg"
+#background-img: "../img/aerobat.jpg"
 me-img: "/img/pilotMountain.jpg"
 
 # Blog variables
@@ -66,7 +66,7 @@ social:
   - title: "github"
     url: "https://github.com/briguy52"
   - title: "linkedin"
-    url: "www.linkedin.com/in/brianmlin"
+    url: "https://www.linkedin.com/in/brianmlin"
 
 404-img: "/img/eww.gif"
 
