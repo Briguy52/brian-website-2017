@@ -1,22 +1,18 @@
-
-<!-- Intro Start -->
-
+<!-- Intro Header -->
 <header class="intro">
     <div class="intro-body">
         <div class="container">
             <div class="row">
-                <div class="col-md-10 col-md-offset-1">
-                    <h1 class="brand-heading">&nbsp;</h1>
-                    <h1 class="brand-heading">&nbsp;</h1>
-                    <span class="intro-text">{{ content }}</span>
-                    <h5>&nbsp;</h5>
-                    <a href="#{{ site.pages_list['About'] }}" class="page-scroll">
-                      <img class="img-me" src="{{site.baseurl}}{{ site.me-img }}" alt="">
-                    </a>
+                <div class="col-md-8 col-md-offset-2">
+                    <p class="intro-text">{{ content }}</p>
+        		    <a href="#{{ site.pages_list['About'] }}" class="page-scroll">
+                        <img class="img-me" src="{{ site.me-img }}" alt="">
+        		    </a>
+                    <div class="social_header">
+                        {% include social-buttons.html %}
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </header>
-
-<!-- Intro End -->
