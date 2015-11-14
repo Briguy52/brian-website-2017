@@ -38,24 +38,20 @@ reddit-share: True
 # Career variables
 
 events:
-  - image: "/img/career/gsoc_2015.jpg"
-    date: "March 2015 - August 2015"
-    description: "Wow! I'm at Google Summer of Code!! Worked with Python Foundation with Kivy Designer"
-  - image: "/img/career/unesp.jpg"
-    date: "April 2015 - Until now"
-    description: "I'm at University! Computer Science student at São Paulo State University :)"
-  - image: "/img/career/triata.jpg"
-    date: "September 2013 - January 2015"
-    description: "My first job as a programmer! Internship with R&D, focusing on Mobile and Web solutions."
-  - image: "/img/career/cti.jpg"
-    date: "February 2012 - December 2014"
-    description: "Started to study Computer Programming at CTI - Unesp/Bauru. One of the best Brazilian public school. And one of best decision I had ever made :)"
-  - image: "/img/career/controller.jpg"
-    date: "2010 or 2011"
-    description: "My first program. I was able to turn my wireless controller off with C++ !"
+  - image: "/img/career/robotics.png"
+    date: "August 2015 - Present"
+    description: "Joined the Duke Robotics Clubs' Electronics team!"
+  - image: "/img/career/rasPi.png"
+    date: "August 2015 - Present"
+    description: "Building a wearable Raspberry Pi text recognizer with the Duke CS Department"
+  - image: "/img/career/clairVista.jpeg"
+    date: "2015 Summer"
+    description: "A summer of web development working with WebRTC, Polymer 1.0, and an AWS LAMP stack"
+  - image: "/img/career/duke.png"
+    date: "Fall 2014 - Present"
+    description: "Started college!"
 
-
-awards:
+#awards:
 # - title: "OBFEP - Brazilian Physics Olympiad - Bronze Medal"
 #    date: "2014"
 
