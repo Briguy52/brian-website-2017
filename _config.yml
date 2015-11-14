@@ -68,7 +68,7 @@ social:
   - title: "linkedin"
     url: "www.linkedin.com/in/brianmlin"
 
-404-img: "/img/labtocat.png"
+404-img: "/img/misakamisaka.gif"
 
 # Exclusion list from the generated _site
 exclude: ["Rakefile", "LICENSE", "info.mk", "vendor"]
