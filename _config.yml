@@ -5,7 +5,7 @@ title: "Brian Lin"
 description: "The personal website of Brian M. Lin"
 keywords: "brian, lin, duke, university, robotics, club, engineer, hardware, 3d printing"
 favicon: "/img/favicon.ico"
-black-favicon: "/img/favicon.ico"
+black-favicon: "/img/donutCatSmall.jpg"
 #google-tracking-id: "UA-66934256-1" 
 #disqus-shortname: "aronbordin"
 
@@ -21,8 +21,8 @@ pages_list:
   Contact: 'contact'
 
 # About variables
-
-me-img: "/img/pilotMountain.jpg"
+background-img: "../img/aerobat.jpg"
+me-img: "/img/brianBlueberries.jpg"
 
 # Blog variables
 paginate: 15
