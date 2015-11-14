@@ -2,6 +2,9 @@
 layout: post_page
 title: Sunday Brunch - Croque Madames!
 description: Egg-topped, super cheesy, oven-broiled pork loin bacon sandwiches!
+section-type: post
+category: cooking
+tags: ["cooking", "duke"]
 ---
 
 <div style="line-height:0;padding:4px 0 0 1px;">

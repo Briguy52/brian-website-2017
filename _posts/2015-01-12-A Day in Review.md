@@ -2,6 +2,9 @@
 layout: post_page
 title: A Day in Review
 description: A simple first post.
+section-type: post
+category: random
+tags: ["random", "duke", "school", "fitness", "physics"]
 ---
 
 Another rainy day here in Durham. You can always tell the day's going to be poor when you have to navigate through or around the Randolph puddle. 

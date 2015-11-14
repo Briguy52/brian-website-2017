@@ -2,6 +2,9 @@
 layout: post_page
 title: First Basketball Game!
 description: Duke vs. Miami
+section-type: post
+category: social
+tags: ["social", "sports"]
 ---
 <div style="line-height:0;padding:4px 0 0 1px;">
 <a href="http://i.imgur.com/xC48C7s.jpg" style="display:inline-block;margin:3px;text-decoration:none;"> 
