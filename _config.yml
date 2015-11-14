@@ -22,7 +22,7 @@ pages_list:
 
 # About variables
 background-img: "../img/aerobat.jpg"
-me-img: "/img/brianBlueberries.jpg"
+me-img: "/img/pilotMountain.jpg"
 
 # Blog variables
 paginate: 15
