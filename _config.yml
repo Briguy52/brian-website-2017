@@ -41,7 +41,7 @@ events:
   - image: "/img/career/robotics.png"
     date: "August 2015 - Present"
     description: "Joined the Duke Robotics Clubs' Electronics team!"
-  - image: "/img/career/rasPi.png"
+  - image: "/img/career/rasPi.ico"
     date: "August 2015 - Present"
     description: "Building a wearable Raspberry Pi text recognizer with the Duke CS Department"
   - image: "/img/career/clairVista.jpeg"
