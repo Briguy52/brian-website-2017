@@ -40,7 +40,7 @@ reddit-share: True
 events:
   - image: "/img/career/robotics.png"
     date: "Fall 2015"
-    description: "Building an autonomous underwater RoboSub!"
+    description: "Joined the Duke Robotics Club!"
   - image: "/img/career/rasPi.ico"
     date: "Fall 2015"
     description: "Working on a wearable Raspberry Pi text recognizer with the Duke CS Department"
