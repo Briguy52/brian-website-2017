@@ -39,16 +39,19 @@ reddit-share: True
 
 events:
   - image: "/img/career/robotics.png"
-    date: "August 2015 - Present"
-    description: "Building an autonomous underwater vehicle as part of the Duke Robotics Club!"
+    date: "Fall 2015"
+    description: "Building an autonomous underwater RoboSub!"
   - image: "/img/career/rasPi.ico"
-    date: "August 2015 - Present"
+    date: "Fall 2015"
     description: "Working on a wearable Raspberry Pi text recognizer with the Duke CS Department"
+  - image: "/img/career/DPR.png"
+    date: "Fall 2015"
+    description: "Became the Webmaster of the Duke Political Review."
   - image: "/img/career/clairVista.jpeg"
     date: "2015 Summer"
     description: "A summer of web development working with WebRTC, Polymer 1.0, and an AWS LAMP stack"
   - image: "/img/career/duke.png"
-    date: "Fall 2014 - Present"
+    date: "Fall 2014"
     description: "College begins"
 
 #awards:
