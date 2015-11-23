@@ -7,6 +7,19 @@
 		<atom:link href="http://briguy52.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Weekly RoboBlog</title>
+				        
+				
+					<description>&lt;p&gt;Another good week of Duke Robotics. Over here in the electrical team, we’re working on some cool things.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 17 Nov 2015 00:00:00 -0500</pubDate>
+				<link>http://briguy52.github.io/robotics/2015/11/17/RoboBlogOne.html</link>
+				<guid isPermaLink="true">http://briguy52.github.io/robotics/2015/11/17/RoboBlogOne.html</guid>
+			</item>
+		
+			<item>
 				<title>Zhongshan | China 15</title>
 				        
 				
@@ -121,19 +134,6 @@
 				<pubDate>Thu, 14 May 2015 00:00:00 -0400</pubDate>
 				<link>http://briguy52.github.io/reviews/2015/05/14/JoyYee.html</link>
 				<guid isPermaLink="true">http://briguy52.github.io/reviews/2015/05/14/JoyYee.html</guid>
-			</item>
-		
-			<item>
-				<title>Photoshop - Blue Pool</title>
-				        
-				
-					<description>&lt;p&gt;&lt;img alt=&quot;Photo: Buckingham Palace&quot; src=&quot;http://nmlin.org/Images/2015.05.12/BluePool.jpg&quot; style=&quot;max-width:630px;&quot; /&gt;&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Tue, 12 May 2015 00:00:00 -0400</pubDate>
-				<link>http://briguy52.github.io/photoshop/2015/05/12/BluePool.html</link>
-				<guid isPermaLink="true">http://briguy52.github.io/photoshop/2015/05/12/BluePool.html</guid>
 			</item>
 		
 	</channel>
