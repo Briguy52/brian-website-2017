@@ -5,6 +5,7 @@ section-type: post
 category: robotics
 tags: 
 ---
+
 Another good week of Duke Robotics. Over here in the electrical team, we're working on some cool things.
 
 ### Thruster Controls
