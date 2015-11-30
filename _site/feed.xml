@@ -7,6 +7,19 @@
 		<atom:link href="http://briguy52.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Class Redux | Fall 2015</title>
+				        
+				
+					<description>&lt;p&gt;This fall semester is about to end- let’s go over what happened!&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 29 Nov 2015 00:00:00 -0500</pubDate>
+				<link>http://briguy52.github.io/school/2015/11/29/SemesterReview.html</link>
+				<guid isPermaLink="true">http://briguy52.github.io/school/2015/11/29/SemesterReview.html</guid>
+			</item>
+		
+			<item>
 				<title>Weekly RoboBlog</title>
 				        
 				
@@ -121,19 +134,6 @@
 				<pubDate>Thu, 14 May 2015 00:00:00 -0400</pubDate>
 				<link>http://briguy52.github.io/exploration/2015/05/14/LawSchool.html</link>
 				<guid isPermaLink="true">http://briguy52.github.io/exploration/2015/05/14/LawSchool.html</guid>
-			</item>
-		
-			<item>
-				<title>Restaurant Review - Joy Yee&#39;s</title>
-				        
-				
-					<description>&lt;p&gt;Joy Yee’s is a Chicago-area sit-down casual restaurant, known for their Bubble Tea and other drinks. There are several locations scattered about. I’ve previously been to the Chinatown location (both before and after renovation) but this was my first time visiting the Evanston spot. &lt;/p&gt;
-
-</description>
-				
-				<pubDate>Thu, 14 May 2015 00:00:00 -0400</pubDate>
-				<link>http://briguy52.github.io/reviews/2015/05/14/JoyYee.html</link>
-				<guid isPermaLink="true">http://briguy52.github.io/reviews/2015/05/14/JoyYee.html</guid>
 			</item>
 		
 	</channel>
