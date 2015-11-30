@@ -1,22 +1,20 @@
 ---
 layout: post_page
-title: Class Redux | Fall 2015
+title: A Semester in Review | Fall 2015
 section-type: post
-category: school
+category: photos
 tags: 
 ---
 
 This fall semester is about to end- let's go over what happened!
 
-I took the following classes:
+One of my favorite parts was discovering the Innovation Studio. This is one of my favorite places now- I probably hang out there more often than some of the people that work there! Essentially, it's a mini-makerspace, complete with many, many 3D printers, a laser cutter, shop bot (CNC router), and a bunch of other things. Shown below is a shelf of Ultimaker 3D printers (we now have 20+ of them!): 
 
-Math 353 - Differential Equations 
-Physics 152 - Electromagnetics
-CompSci 201 - Data Structures and Algorithms
-ECE 280 - Signals and Systems
-AMES 361 - East Asian Youth Culture
+<img alt="Photo: Class Schedule" src="http://nmlin.org/Images/2015.11.29/shelf.jpg" style="max-width:630px;">
 
-<img alt="Photo: Class Schedule" src="http://nmlin.org/Images/2015.11.29/aces.png" style="max-width:630px;">
+I've 3D printed a Raspberry Pi case I designed using Blender as well as a bunch of other fun things I found online (such as low-poly Pokemon!):
+
+<img alt="Photo: Hydra Stack" src="http://nmlin.org/Images/Robotics/hydraStack.jpg" style="max-width:630px;"> // pokemon picture here
 
 The problem with engineering is that whenever you sign up for a class, you don't just sign up for the lecture. You also get the discussion and the lab! That means a busy busy schedule (as you can tell from my Wednesdays...)
 
