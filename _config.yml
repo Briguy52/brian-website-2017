@@ -15,7 +15,7 @@ black-favicon: "/img/donutCatSmall.jpg"
 
 pages_list:
   About: 'about'
-  Blog: 'blog'
+  Blog: 'myblog'
   Career: 'career'
   #Awards: 'awards'
   Contact: 'contact'

@@ -17,7 +17,7 @@ Here's a brief overview of the classes I took this semester and my thoughts on t
 
 * AMES 361 - East Asian Youth Culture
 
-<img alt="Photo: Class Schedule" src="http://nmlin.org/Images/2015.11.29/aces.png" style="max-width:630px;">
+<img alt="Photo: Class Schedule" src="http://brianmlin.com/Images/2015.11.29/aces.png" style="max-width:630px;">
 
 The problem with engineering is that whenever you sign up for a class, you don't just sign up for the lecture. You also get the discussion and the lab! That means a busy busy schedule (as you can tell from my Wednesdays...)
 
