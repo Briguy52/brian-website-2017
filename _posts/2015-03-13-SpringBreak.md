@@ -6,7 +6,7 @@ category: photos
 tags: ["duke garden", "spring break"]
 ---
 
-<img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.03.13/betterbamboo.jpg" style="max-width:630px;">
+<img alt="Photo: Buckingham Palace" src="http://brianmlin.com/Images/2015.03.13/betterbamboo.jpg" style="max-width:630px;">
 
 College is one long sleepover with everything you could want. There’s classes to feed your mind. Gyms, sports, and trails to feed your body. Game of Thrones marathons to feed your intrigue. And best of all, plenty of friends to feed your hunger for companionship. And best of all, there’s ice cream to feed your ice cream cravings. 
 
@@ -18,7 +18,7 @@ Pictured above is a nicely hidden stand of bamboo trees in the Asiatic Pavilion 
 
 On a brighter note, I still think it’s funny how the #1 thing to do in Durham (according to TripAdvisor) is to visit the Duke Gardens. And not just that- about half of the top 10 are venues associated with Duke, like the Chapel and Cameron Indoor Stadium. Ah, the inseparable Duke and Durham. 
 
-<img alt="Photo: Buckingham Palace" src="http://nmlin.org/Images/2015.03.13/redbridge.jpg" style="max-width:630px;">
+<img alt="Photo: Buckingham Palace" src="http://brianmlin.com/Images/2015.03.13/redbridge.jpg" style="max-width:630px;">
 
 A nice (albeit cloudy) view from a painted red bridge. Even though most students haven’t gotten back from Spring Break yet, the flowers have begun to blossom and the Canadian Geese and ducks have returned. 
 

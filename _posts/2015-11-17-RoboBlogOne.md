@@ -12,7 +12,7 @@ Another good week of Duke Robotics. Over here in the electrical team, we're work
 
 The Hydra (DC motor controller stack) has been assembled and will control 8 Teledyne DC thrusters that will be used to move our robot around. We now have to figure out firmware and protocols to send thruster commands to the Arduino (Mingxuan, Dylan, and the CS team are focusing on that part). 
 
-<img alt="Photo: Hydra Stack" src="http://nmlin.org/Images/Robotics/hydraStack.jpg" style="max-width:630px;">
+<img alt="Photo: Hydra Stack" src="http://brianmlin.com/Images/Robotics/hydraStack.jpg" style="max-width:630px;">
 
 
 ### CPU 

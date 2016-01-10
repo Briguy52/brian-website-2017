@@ -7,17 +7,17 @@ tags: ["fountain pens", "pilot", "black", "vanishing", "point", "review"]
 ---
 This is a writeup of the Pilot Vanishing Point ‘Special Alloy’ Fountain Pen
 
-<img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/1.jpg" style="max-width:630px;">
+<img alt="Photo: Vanishing Point" src="http://brianmlin.com/Images/Vanishing/1.jpg" style="max-width:630px;">
 
 Most people are familiar with the standard 14k or 18k gold Vanishing Point pens produced by Pilot. New ones generally run for around $120-140 online. 
 
 However, Pilot also produces a ‘Special Alloy’ steel nib Capless that is only available domestically in Japan, retailing for around $70. This is a review of that pen.
 
-<img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/2.jpg" style="max-width:630px;">
+<img alt="Photo: Vanishing Point" src="http://brianmlin.com/Images/Vanishing/2.jpg" style="max-width:630px;">
 
 This is a a beautiful, shiny, professional-looking pen. The Rhodium accents offer some eye-catching highlights without becoming gaudy, raven-attracting bling. The black lacquered body offers a wonderfully polished reflective surface. When I’m sitting in my office, there are body-length silver streaks from the fluorescent lights above me.  When I’m sketching on the train, I can see buildings and night lights blur by. When I’m sitting by a window on a sunny day, it takes on facets of light and greyscale shades. This is a very good looking pen that shines (quite literally) in that black polished mirror finish. In addition to this Black model, Pilot also offers the steel nib Capless in Silver, Yellow, and perhaps some other colors (all with Rhodium trim).
 
-<img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/4.jpg" style="max-width:630px;">
+<img alt="Photo: Vanishing Point" src="http://brianmlin.com/Images/Vanishing/4.jpg" style="max-width:630px;">
 
 This pen feels solid and the fit and finish is top notch. The trim isn’t loose, the clip is secure, and the entire pen feels like one solid unit. The main concern people have with the Capless is that the trapdoor may lose its airtight seal over time. I cannot comment on that as I’ve only owned the pen for a weekend. 
 
@@ -25,7 +25,7 @@ My pen preferences lean to heavy, modern-looking, metal pens. This pen checks of
 
 Like the Lamy Safari, this pen tries to force you to conform to the ‘standard’ tripod grip. I refuse. I have this overhand grip where my pointer finger rests on top, inline with the nib. My thumb and middle finger form some strange tripod on either flank. I just place my pointer finger on top of the clip, thumb and middle finger where they normally go, and all is fine for me. I do pretty much the same thing with the Safari and it doesn’t bother me much. Would I prefer the clip somewhere else or removed entirely? Yes, but not enough to dissuade me from purchasing the pen.
 
-<img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/3.jpg" style="max-width:630px;">
+<img alt="Photo: Vanishing Point" src="http://brianmlin.com/Images/Vanishing/3.jpg" style="max-width:630px;">
 
 The defining feature of this pen is that it features a ‘special alloy’ (i.e. steel) nib, compared to the standard gold nib Vanishing Points. While the nib is presumably steel, it has a gold color. I would have preferred a silver colored nib, especially in this pen.
 
@@ -35,7 +35,7 @@ Is this a ‘super smooth’ writer? No. Out of all my fountain pens, my Lamy Sa
 
 Overall, it offers a decent writing experience that I can’t complain about (post-adjustment). 
 
-<img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/8.jpg" style="max-width:630px;">
+<img alt="Photo: Vanishing Point" src="http://brianmlin.com/Images/Vanishing/8.jpg" style="max-width:630px;">
 
 I purchased this pen from the Rakuten seller ‘Komamono-Honpo’ as part of a larger order. The pen itself costs $71 plus shipping. My total order consisted of:
 
@@ -68,4 +68,4 @@ If you weren’t aware, the buying process is as follows:
 Packaging is very good and the order came in very quickly (especially considering that this is from Japan to Chicago). The outer box contained a smaller box with a layer of bubble wrap sandwiched between. Within the smaller box was all my items individually bubble wrapped. I could probably toss this down the stairs and not break a single bottle of ink. Very impressed. 
 
 
-<img alt="Photo: Vanishing Point" src="http://nmlin.org/Images/Vanishing/5.jpg" style="max-width:630px;">
+<img alt="Photo: Vanishing Point" src="http://brianmlin.com/Images/Vanishing/5.jpg" style="max-width:630px;">

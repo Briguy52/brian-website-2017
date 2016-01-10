@@ -131,6 +131,6 @@ This [Google groups post](https://groups.google.com/forum/#!topic/sphinx-users/X
 
 Thank you for reading this writeup! I will update this article as a I learn new things and encounter new obstacles. Pictures and screenshots will be added soon though they shouldn’t be necessary to understand the process.
 
-Please contact me with any questions, suggestions, or criticisms at bri@nmlin.org. 
+Please contact me with any questions, suggestions, or criticisms at bri@brianmlin.com. 
 
 *Last updated: Tuesday, May 26th, 2015*
