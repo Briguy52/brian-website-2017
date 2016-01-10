@@ -7,19 +7,6 @@
 		<atom:link href="http://briguy52.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>A Semester in Review | Fall 2015</title>
-				        
-				
-					<description>&lt;p&gt;This fall semester is about to end- let’s go over what happened!&lt;/p&gt;
-
-</description>
-				
-				<pubDate>Mon, 30 Nov 2015 00:00:00 -0500</pubDate>
-				<link>http://briguy52.github.io/photos/2015/11/30/SemesterReview.html</link>
-				<guid isPermaLink="true">http://briguy52.github.io/photos/2015/11/30/SemesterReview.html</guid>
-			</item>
-		
-			<item>
 				<title>Class Redux | Fall 2015</title>
 				        
 				
@@ -27,7 +14,7 @@
 
 </description>
 				
-				<pubDate>Sun, 29 Nov 2015 00:00:00 -0500</pubDate>
+				<pubDate>Sun, 29 Nov 2015 00:00:00 -0600</pubDate>
 				<link>http://briguy52.github.io/school/2015/11/29/ClassRedux.html</link>
 				<guid isPermaLink="true">http://briguy52.github.io/school/2015/11/29/ClassRedux.html</guid>
 			</item>
@@ -40,7 +27,7 @@
 
 </description>
 				
-				<pubDate>Tue, 17 Nov 2015 00:00:00 -0500</pubDate>
+				<pubDate>Tue, 17 Nov 2015 00:00:00 -0600</pubDate>
 				<link>http://briguy52.github.io/robotics/2015/11/17/RoboBlogOne.html</link>
 				<guid isPermaLink="true">http://briguy52.github.io/robotics/2015/11/17/RoboBlogOne.html</guid>
 			</item>
@@ -49,11 +36,11 @@
 				<title>Zhongshan | China 15</title>
 				        
 				
-					<description>&lt;p&gt;Zhongshan (中山) is a city in the south of China. It’s a 45 minute bullet train (高铁) ride from Guangzhou’s main train station. &lt;/p&gt;
+					<description>&lt;p&gt;Zhongshan (中山) is a city in the south of China. It’s a 45 minute bullet train (高铁) ride from Guangzhou’s main train station.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Sun, 09 Aug 2015 00:00:00 -0400</pubDate>
+				<pubDate>Sun, 09 Aug 2015 00:00:00 -0500</pubDate>
 				<link>http://briguy52.github.io/exploration/2015/08/09/Zhongshan.html</link>
 				<guid isPermaLink="true">http://briguy52.github.io/exploration/2015/08/09/Zhongshan.html</guid>
 			</item>
@@ -62,11 +49,11 @@
 				<title>Guangzhou | China 15</title>
 				        
 				
-					<description>&lt;p&gt;Guangzhou (广州) is the third largest city in China, after Beijing and Shanghai. It is located in the south of China and the primary language is Cantonese Chinese. &lt;/p&gt;
+					<description>&lt;p&gt;Guangzhou (广州) is the third largest city in China, after Beijing and Shanghai. It is located in the south of China and the primary language is Cantonese Chinese.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Sat, 08 Aug 2015 00:00:00 -0400</pubDate>
+				<pubDate>Sat, 08 Aug 2015 00:00:00 -0500</pubDate>
 				<link>http://briguy52.github.io/exploration/2015/08/08/Guangzhou.html</link>
 				<guid isPermaLink="true">http://briguy52.github.io/exploration/2015/08/08/Guangzhou.html</guid>
 			</item>
@@ -75,13 +62,13 @@
 				<title>Canon Store | China 15</title>
 				        
 				
-					<description>&lt;p&gt;Canon is one of the most well-known modern camera manufacturers. Throughout major Chinese cities, you can find Canon stores in high-end shopping areas. &lt;/p&gt;
+					<description>&lt;p&gt;Canon is one of the most well-known modern camera manufacturers. Throughout major Chinese cities, you can find Canon stores in high-end shopping areas.&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Sun, 02 Aug 2015 00:00:00 -0400</pubDate>
-				<link>http://briguy52.github.io/exploration/2015/08/02/Canon%20Store.html</link>
-				<guid isPermaLink="true">http://briguy52.github.io/exploration/2015/08/02/Canon%20Store.html</guid>
+				<pubDate>Sun, 02 Aug 2015 00:00:00 -0500</pubDate>
+				<link>http://briguy52.github.io/exploration/2015/08/02/Canon-Store.html</link>
+				<guid isPermaLink="true">http://briguy52.github.io/exploration/2015/08/02/Canon-Store.html</guid>
 			</item>
 		
 			<item>
@@ -92,9 +79,9 @@
 
 </description>
 				
-				<pubDate>Wed, 08 Jul 2015 00:00:00 -0400</pubDate>
-				<link>http://briguy52.github.io/reviews/2015/07/08/Vanishing%20Point.html</link>
-				<guid isPermaLink="true">http://briguy52.github.io/reviews/2015/07/08/Vanishing%20Point.html</guid>
+				<pubDate>Wed, 08 Jul 2015 00:00:00 -0500</pubDate>
+				<link>http://briguy52.github.io/reviews/2015/07/08/Vanishing-Point.html</link>
+				<guid isPermaLink="true">http://briguy52.github.io/reviews/2015/07/08/Vanishing-Point.html</guid>
 			</item>
 		
 			<item>
@@ -105,7 +92,7 @@
 
 </description>
 				
-				<pubDate>Mon, 25 May 2015 00:00:00 -0400</pubDate>
+				<pubDate>Mon, 25 May 2015 00:00:00 -0500</pubDate>
 				<link>http://briguy52.github.io/tutorials/2015/05/25/SphinxLatexMac.html</link>
 				<guid isPermaLink="true">http://briguy52.github.io/tutorials/2015/05/25/SphinxLatexMac.html</guid>
 			</item>
@@ -118,7 +105,7 @@
 
 </description>
 				
-				<pubDate>Sat, 23 May 2015 00:00:00 -0400</pubDate>
+				<pubDate>Sat, 23 May 2015 00:00:00 -0500</pubDate>
 				<link>http://briguy52.github.io/exploration/2015/05/23/Windy2.html</link>
 				<guid isPermaLink="true">http://briguy52.github.io/exploration/2015/05/23/Windy2.html</guid>
 			</item>
@@ -127,13 +114,26 @@
 				<title>Windy City Wanderings Part I</title>
 				        
 				
-					<description>&lt;p&gt;&lt;img alt=&quot;Photo: Buckingham Palace&quot; src=&quot;http://nmlin.org/Images/2015.05.14/birds.jpg&quot; style=&quot;max-width:630px;&quot; /&gt;&lt;/p&gt;
+					<description>&lt;p&gt;&lt;img alt=&quot;Photo: Buckingham Palace&quot; src=&quot;http://brianmlin.com/Images/2015.05.14/birds.jpg&quot; style=&quot;max-width:630px;&quot; /&gt;&lt;/p&gt;
 
 </description>
 				
-				<pubDate>Thu, 14 May 2015 00:00:00 -0400</pubDate>
+				<pubDate>Thu, 14 May 2015 00:00:00 -0500</pubDate>
 				<link>http://briguy52.github.io/exploration/2015/05/14/Windy.html</link>
 				<guid isPermaLink="true">http://briguy52.github.io/exploration/2015/05/14/Windy.html</guid>
+			</item>
+		
+			<item>
+				<title>Law School Exploration</title>
+				        
+				
+					<description>&lt;p&gt;&lt;img alt=&quot;Photo: Buckingham Palace&quot; src=&quot;http://brianmlin.com/Images/2015.05.14/nu.jpg&quot; style=&quot;max-width:630px;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 14 May 2015 00:00:00 -0500</pubDate>
+				<link>http://briguy52.github.io/exploration/2015/05/14/LawSchool.html</link>
+				<guid isPermaLink="true">http://briguy52.github.io/exploration/2015/05/14/LawSchool.html</guid>
 			</item>
 		
 	</channel>
