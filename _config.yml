@@ -40,7 +40,7 @@ reddit-share: True
 events:
   - image: "http://i.imgur.com/UFAnggs.png"
     date: "Summer 2016"
-    description: "Software development at Fidelity's Enterprise Cybersecurity team using AngularJS and Node.js"
+    description: "Web dev with Fidelity's Enterprise Cybersecurity team using AngularJS and Node.js"
   - image: "http://i.imgur.com/ax6yaPW.png"
     date: "2016 Feb-Aug"
     description: "iOS backend developer at Walla"
