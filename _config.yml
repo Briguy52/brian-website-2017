@@ -38,6 +38,9 @@ reddit-share: True
 # Career variables
 
 events:
+  - image: "http://i.imgur.com/UFAnggs.png"
+    date: "Summer 2016"
+    description: "Software development at Fidelity's Enterprise Cybersecurity team using AngularJS and Node.js"
   - image: "http://i.imgur.com/RVppVg7.png"
     date: "April 2016"
     description: "Launched Ideate Duke, our first design conference"
@@ -54,7 +57,7 @@ events:
     date: "Fall 2015"
     description: "Became the Webmaster of the Duke Political Review."
   - image: "/img/career/clairVista.jpeg"
-    date: "2015 Summer"
+    date: "Summer 2015"
     description: "A summer of web development working with WebRTC, Polymer 1.0, and an AWS LAMP stack"
   - image: "/img/career/duke.png"
     date: "Fall 2014"
