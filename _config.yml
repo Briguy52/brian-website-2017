@@ -6,7 +6,7 @@ description: "The personal website of Brian M. Lin"
 keywords: "brian, lin, duke, university, robotics, club, engineer, hardware, 3d printing"
 favicon: "/img/favicon.ico"
 black-favicon: "/img/donutCatSmall.jpg"
-#google-tracking-id: "UA-66934256-1" 
+#google-tracking-id: "UA-66934256-1"
 #disqus-shortname: "aronbordin"
 
 # Navigation bar links
@@ -38,8 +38,14 @@ reddit-share: True
 # Career variables
 
 events:
+  - image: "http://i.imgur.com/cRQ1K7d.png"
+    date: "April 2016"
+    description: "Launched Ideate Duke, our first design conference"
+  - image: "http://i.imgur.com/5uji698.png"
+    date: "January 2016"
+    description: "Joined Hack Duke organizing team"
   - image: "/img/career/robotics.png"
-    date: "Fall 2015"
+    date: "August 2015"
     description: "Joined Duke Robotics"
   - image: "/img/career/rasPi.ico"
     date: "Fall 2015"
