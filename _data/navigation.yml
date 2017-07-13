@@ -1,10 +1,6 @@
 # main links
 main:
-  - title: "about"
-    url: /about/
   - title: "blog"
-    url: /year-archive/
+    url: https://medium.com/@brianmlin
   - title: "photos"
-    url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: https://www.instagram.com/brianmlin/
