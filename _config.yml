@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "brian m lin"
+title                    : ""
 title_separator          : "-"
 name                     : "brian m lin"
 description              : "designer, developer, photographer, and writer"
@@ -66,7 +66,10 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+  - "https://www.facebook.com/brianmlin"
+  - "https://medium.com/@brianmlin"
+  - "https://www.instagram.com/brianmlin/"
 
 # Analytics
 analytics:
@@ -78,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "brian m lin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "designer, developer, photographer, and writer"
   location         : "nyc"
   email            :
@@ -89,11 +92,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "briguy52"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "brianmlin"
   lastfm           :
   linkedin         :
   pinterest        :
