@@ -1,92 +1,247 @@
-# Site settings
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
-url: "http://briguy52.github.io"
-title: "Brian Lin"
-description: "The personal website of Brian M. Lin"
-keywords: "brian, lin, duke, university, robotics, club, engineer, hardware, 3d printing"
-favicon: "/img/favicon.ico"
-black-favicon: "/img/donutCatSmall.jpg"
-#google-tracking-id: "UA-66934256-1"
-#disqus-shortname: "aronbordin"
+# Site Settings
+locale                   : "en"
+title                    : "Site Title"
+title_separator          : "-"
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment."
+  filename               : comment-{@timestamp}
+  format                 : "yml"
+  moderation             : true
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
+  transforms:
+    email                : "md5"
+  generatedFields:
+    date:
+      type               : "date"
+      options:
+        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+atom_feed:
+  path                   : # blank (default) uses feed.xml
 
-# Navigation bar links
-# Blog link in the blog and post pages will point to the blog.html#blog
-# In the default page it will point to the preview of the last post
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
 
-pages_list:
-  About: 'about'
-  Blog: 'blog'
-  Career: 'career'
-  #Awards: 'awards'
-  Contact: 'contact'
-
-# About variables
-#background-img: "../img/aerobat.jpg"
-me-img: "/img/pilotMountain.jpg"
-
-# Blog variables
-paginate: 15
-
-paginate_path: "blog/page:num"
-
-post-preview-words: 128
-
-fb-share: True
-twitter-share: True
-reddit-share: True
-
-# Career variables
-
-events:
-  - image: "http://i.imgur.com/UFAnggs.png"
-    date: "Summer 2016"
-    description: "Web dev with Fidelity's Enterprise Cybersecurity team using AngularJS and Node.js"
-  - image: "http://i.imgur.com/ax6yaPW.png"
-    date: "2016 Feb-Aug"
-    description: "iOS backend developer at Walla"
-  - image: "http://i.imgur.com/uOv2rJx.png"
-    date: "Spring 2016"
-    description: "Joined APO, community service fraternity"
-  - image: "http://i.imgur.com/RVppVg7.png"
-    date: "April 2016"
-    description: "Launched Ideate, Duke's first design conference"
-  - image: "http://i.imgur.com/W8eSksk.jpg"
-    date: "January 2016"
-    description: "Joined Hack Duke organizing team"
-  - image: "/img/career/robotics.png"
-    date: "Fall 2015"
-    description: "Joined Duke Robotics"
-  - image: "/img/career/rasPi.ico"
-    date: "Fall 2015"
-    description: "Working on a wearable Raspberry Pi text recognizer with the Duke CS Department"
-  - image: "/img/career/DPR.png"
-    date: "Fall 2015"
-    description: "Became the Webmaster of the Duke Political Review."
-  - image: "/img/career/clairVista.jpeg"
-    date: "Summer 2015"
-    description: "A summer of web development working with WebRTC, Polymer 1.0, and an AWS LAMP stack"
-  - image: "/img/career/duke.png"
-    date: "Fall 2014"
-    description: "College begins"
-
-#awards:
-# - title: "OBFEP - Brazilian Physics Olympiad - Bronze Medal"
-#    date: "2014"
-
-
-# First image of the Career timeline
-career-img: "/img/career/controller.jpg"
-
-# Social networks variables (many more available: facebook, flickr, dribbble, pinterest, instagram, tumblr etc.)
+# Social Sharing
+twitter:
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  - title: "facebook"
-    url: "https://www.facebook.com/brianmlin"
-  - title: "github"
-    url: "https://github.com/briguy52"
-  - title: "linkedin"
-    url: "https://www.linkedin.com/in/brianmlin"
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
-404-img: "/img/eww.gif"
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
 
-# Exclusion list from the generated _site
-exclude: ["Rakefile", "LICENSE", "info.mk", "vendor"]
+
+# Site Author
+author:
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+  email            :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
