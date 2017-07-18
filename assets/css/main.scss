@@ -4,8 +4,6 @@
 
 @charset "utf-8";
 
-h1, a, body {
-    font-family: "Avenir Next", sans-serif;
-}
+$sans-serif : -apple-system, "Avenir Next", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 @import "minimal-mistakes";
