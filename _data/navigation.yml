@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "blog"
+  - title: "software engineering"
+    url: /software
+  - title: "writing"
     url: https://medium.com/@brianmlin
-  - title: "photos"
+  - title: "photography"
     url: https://www.instagram.com/brianmlin/
