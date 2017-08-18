@@ -1,0 +1,28 @@
+<svg viewBox="0 0 296 176" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <rect id="b" width="768" height="176"/>
+    <pattern id="c" width="48" height="48" x="-48" y="-48" patternUnits="userSpaceOnUse">
+      <use xlink:href="#a"/>
+    </pattern>
+    <image id="a" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAAXNSR0IArs4c6QAAALNJREFUaAXtmEEKwzAMBOP+yf9/gB/V0uMexZBtA5ObwJLiGQuM1977fQ2+c84aLL/urv+a/Mw/rnUDv7aiAQ1AAh4hCBCnawAjhAUeb2B0r/nCuvtuM63/eANuAM4gTtcARggLaAACxOkawAhhAQ1AgDh9Te8evgth5lnAGUge/UgDfebZUQPJox9poM88O2ogefQj34X6zLOjM5A8+pEG+syzowaSRz/SQJ95dtRA8uhHHxtJG5lrDDU9AAAAAElFTkSuQmCC"/>
+  </defs>
+  <g transform="translate(-235.000000, -416.000000) translate(0.000000, 416.000000)" fill="none" fill-rule="evenodd">
+    <use fill="#FBFBFB" xlink:href="#b"/>
+    <use fill-opacity=".05" fill="url(#c)" xlink:href="#b"/>
+    <g transform="translate(332.000000, 47.000000)">
+      <path d="M20.7836127,3.23430478 L47.4045843,0.419921875 L74.025556,3.23430478 L94.6353405,30.9011198 L47.4045843,85.90084 L0.173828125,30.9011198 L20.7836127,3.23430478 Z" fill="#FDB300"/>
+      <g transform="translate(0.173828, 30.901120)">
+        <polygon fill="#EA6C00" points="19.131 0 47.231 55 0 0"/>
+        <polygon fill="#EA6C00" transform="translate(70.846134, 27.499860) scale(-1, 1) translate(-70.846134, -27.499860)" points="66.362 0 94.462 55 47.231 0"/>
+        <polygon fill="#FDAD00" points="19.131 0 75.331 0 47.231 55"/>
+      </g>
+      <g transform="translate(0.173828, 0.419922)">
+        <polygon fill="#FDD231" points="47.231 0 20.61 2.814 19.131 30.481"/>
+        <polygon fill="#FDD231" transform="translate(61.280713, 15.240599) scale(-1, 1) translate(-61.280713, -15.240599)" points="75.331 0 48.71 2.814 47.231 30.481"/>
+        <polygon fill="#FDAD00" transform="translate(84.156620, 16.647790) scale(-1, 1) translate(-84.156620, -16.647790)" points="73.852 30.481 94.462 2.814 92.983 30.481"/>
+        <polygon fill="#FDAD00" points="0 30.481 20.61 2.814 19.131 30.481"/>
+        <polygon fill="#FEEEB7" points="47.231 0 19.131 30.481 75.331 30.481"/>
+      </g>
+    </g>
+  </g>
+</svg>
