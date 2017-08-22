@@ -2,8 +2,6 @@
 main:
   - title: "design"
     url: /
-  - title: "software engineering"
-    url: /software
   - title: "writing"
     url: https://medium.com/@brianmlin
   - title: "photography"
