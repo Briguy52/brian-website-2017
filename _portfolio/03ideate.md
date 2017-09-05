@@ -1,12 +1,12 @@
 ---
-title: "Aloha"
+title: "Ideate"
 excerpt: "Organized and helped found Duke's first design conference"
 header:
   image: /assets/images/alohaBanner.png
   teaser: /assets/images/IdeateTeaser.png
 sidebar:
   - title: "Role"
-    image: /assets/images/AlohaLogo.png
+    image:
     image_alt: "Logo"
     text: "Organizer"
 gallery:
