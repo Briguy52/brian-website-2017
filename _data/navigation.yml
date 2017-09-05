@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "portfolio"
-    url: /
+    url: /portfolio
   - title: "writing"
     url: https://medium.com/@brianmlin
   - title: "photography"
