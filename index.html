@@ -5,7 +5,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_image: /assets/images/title.png
 intro:
-  - excerpt: "Hi! I'm Brian. I'm a UX engineer and frontend developer specializing in prototyping web apps."
+  - excerpt: "Hi! I'm Brian. I'm a UX engineer, Duke senior, and high key bubble tea addict."
 feature_row0:
     - image_path: /assets/images/yext.png
       alt: "Yext"
@@ -35,7 +35,7 @@ feature_row1:
       excerpt: "Winner of the 2016 Duke Startup Challenge and $50k funding"
 
 ---
-{% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
 <div class="grid__wrapper">
   {% for post in site.portfolio %}
     {% include archive-single.html type="grid" %}
