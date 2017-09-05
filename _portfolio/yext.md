@@ -3,7 +3,7 @@ title: "Yext"
 excerpt: "Prototyped Yext for Events, accessible navbars, and the Yext Japan launch"
 header:
   image: /assets/images/yext.png
-  teaser: /assets/images/yext.png
+  teaser: /assets/images/YextTeaser.png
 sidebar:
   - title: "Role"
     image: /assets/images/yext.png
