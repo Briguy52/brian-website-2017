@@ -2,13 +2,13 @@
 title: "Yext"
 excerpt: "Prototyped Yext for Events, accessible navbars, and the Yext Japan launch"
 header:
-  image: /assets/images/alohaBanner.png
-  teaser: /assets/images/alohaBanner.png
+  image: /assets/images/yext.png
+  teaser: /assets/images/yext.png
 sidebar:
   - title: "Role"
-    image: /assets/images/AlohaLogo.png
-    image_alt: "Aloha Logo"
-    text: "UX Designer"
+    image: /assets/images/yext.png
+    image_alt: "logo"
+    text: "UX Intern, SWE Intern"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -21,5 +21,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-**Background**
 
