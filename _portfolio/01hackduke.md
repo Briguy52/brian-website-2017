@@ -25,7 +25,7 @@ gallery:
 
 Last Fall I helped work on the HackDuke website redesign and rebuild. Our previous website had been around since the first or second HackDuke and there was also a separate iOS app that needed to be maintained. Too many tangles all around so we decided to start from scratch this year. 
 
-You can view our [landing page](hackduke.org), [day of site](dayof.hackduke.org), and [user portal](my.hackduke.org) online right now!
+You can view our [landing page](https://hackduke.org/), [day of site](https://dayof.hackduke.org/), and [user portal](https://my.hackduke.org/) online right now!
 
 **Design**
 

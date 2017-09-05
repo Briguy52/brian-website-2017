@@ -2,7 +2,7 @@
 title: "Ideate"
 excerpt: "Organized and helped found Duke's first design conference"
 header:
-  image: /assets/images/alohaBanner.png
+  image: /assets/images/ideateBanner.png
   teaser: /assets/images/IdeateTeaser.png
 sidebar:
   - title: "Role"
@@ -23,7 +23,7 @@ gallery:
 
 *Originally published on [Medium](https://medium.com/@hackduke/the-ideate-backstory-8d29bd513455) on April 4th, 2017*
 
-With [Ideate 2017](ideate.hackduke.org), we wanted to look back to when and how Ideate first started. Design is something that’s missing from a lot of school curriculums, Duke included. There are no design majors. No Industrial Design. No Graphic Design. No Human Computer Interaction. We get close with Visual Media Studies and Arts Vis, but there’s only a few design courses offered, and that’s nowhere near enough. It’s evident within the CS department too — students at other schools learn about designing for accessibility or how to build storyboards. We don’t.
+With [Ideate 2017](https://ideate.hackduke.org/), we wanted to look back to when and how Ideate first started. Design is something that’s missing from a lot of school curriculums, Duke included. There are no design majors. No Industrial Design. No Graphic Design. No Human Computer Interaction. We get close with Visual Media Studies and Arts Vis, but there’s only a few design courses offered, and that’s nowhere near enough. It’s evident within the CS department too — students at other schools learn about designing for accessibility or how to build storyboards. We don’t.
 And so we end up with Duke graduates who are passionate about design, but end up majoring in Computer Science or Psychology (one of our speakers was a Physics grad even).
 
 It’s a problem. And so last year we started a design conference at Duke, Ideate.
