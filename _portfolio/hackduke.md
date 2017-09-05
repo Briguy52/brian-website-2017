@@ -3,10 +3,10 @@ title: "HackDuke"
 excerpt: "Built the hackathon landing page, day of site, and registration portal. Currently Marketing team lead."
 header:
   image: /assets/images/HackDukeScreen.png
-  teaser: /assets/images/HackDukeScreenSmall.png
+  teaser: /assets/images/HackDukeScreenTeaser.png
 sidebar:
   - title: "Role"
-    image: /assets/images/AlohaLogo.png
+    image: /assets/images/hackDuke.png
     image_alt: "Aloha Logo"
     text: "Marketing Team Lead, Developer, Organizer"
 gallery:
