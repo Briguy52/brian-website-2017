@@ -35,7 +35,7 @@ feature_row1:
       excerpt: "Winner of the 2016 Duke Startup Challenge and $50k funding"
 
 ---
-
+{% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
 <div class="grid__wrapper">
   {% for post in site.portfolio %}
     {% include archive-single.html type="grid" %}
