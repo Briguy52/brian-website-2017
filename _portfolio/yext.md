@@ -2,12 +2,10 @@
 title: "Yext"
 excerpt: "Prototyped Yext for Events, accessible navbars, and the Yext Japan launch"
 header:
-  image: /assets/images/yext.png
+  image: 
   teaser: /assets/images/YextTeaser.png
 sidebar:
   - title: "Role"
-    image: /assets/images/yext.png
-    image_alt: "logo"
     text: "UX Intern, SWE Intern"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
