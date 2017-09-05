@@ -3,7 +3,7 @@ title: "Aloha"
 excerpt: "Designing an app to lower the social risk of adventurous conversations"
 header:
   image: /assets/images/alohaBanner.png
-  teaser: /assets/images/alohaBanner.png
+  teaser: /assets/images/AlohaScreenTeaser.png
 sidebar:
   - title: "Role"
     image: /assets/images/AlohaLogo.png
