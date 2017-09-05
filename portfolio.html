@@ -3,7 +3,15 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: false
+header:
+  overlay_image: /assets/images/title.png
 ---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
 
 <div class="grid__wrapper">
   {% for post in site.portfolio %}
