@@ -1,6 +1,6 @@
 ---
 title: "Duke Alpha Phi Omega Rebrand"
-excerpt: "Redesigned our previous website as a single static page."
+excerpt: "Redesigned our previous website as a single static page"
 header:
   image: /assets/images/APOScreenBanner.png
   teaser: /assets/images/APOScreenTeaser.png
