@@ -21,14 +21,20 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-**Background**
+*Originally published on [Medium](https://medium.com/@hackduke/the-ideate-backstory-8d29bd513455) on April 4th, 2017*
 
-Aloha is the main project I'm working on now with several students from both Duke and UNC. The idea was born out of behavioral econ research done by members of the team, showing that many college students don't complete their first year due to an inability to connect with other students on campus. We've been through typical orientation week conversations where we ask about our majors and hometowns and dorms, but rarely get to learn how we're truly living our lives. The result of these shallow conversations is shallow friendships that aren't able to support us when we need it. Our goal is to create an app that helps students create a habit of starting adventurous conversations. 
+With Ideate 2017 coming up on April 15th, we wanted to look back to when and how Ideate first started.
+Design is something that’s missing from a lot of school curriculums, Duke included. There are no design majors. No Industrial Design. No Graphic Design. No Human Computer Interaction. We get close with Visual Media Studies and Arts Vis, but there’s only a few design courses offered, and that’s nowhere near enough. It’s evident within the CS department too — students at other schools learn about designing for accessibility or how to build storyboards. We don’t.
+And so we end up with Duke graduates who are passionate about design, but end up majoring in Computer Science or Psychology (one of our speakers was a Physics grad even).
 
-As such, all of my design decisions revolved around this central theme of habitual conversation starting.
+It’s a problem. And so last year we started a design conference at Duke, Ideate.
 
-**Problem: Conversation Starters and Social Risk**
+Ideate was a two-day conference with speakers from both tech companies and design agencies. We encouraged our speakers to share what they cared about. For one, that was the role of ethics in design: should we make the thumbs up emoji white by default? Why not yellow or brown? Other speakers discussed Design Thinking or shared the story of how they became designers. How do you tell if it’s what you want, and if so, how do you make it happen?
 
-Our original way of starting conversations was to ask each user for a few interests. Things like "food" or "basketball" or "reading". These are great for small talk, but as a form of smalltalk, there's low risk and low reward. Nothing is at stake (unless we're talking Duke basketball of course). Our target audience is students who are having difficulty making the transition from small talk to asking about their personal lives and what matters to them. 
+We chatted with a lot of participants afterwards, and they seemed to appreciate the questions and contents brought up in those talks. And so this year we’ll keep our speaker talks as the focus of Ideate. You’ll be able to pick which talks you go to (for instance if you’re a Graphic Design person, you can go to that talk instead of User Interface Design) and we will conclude our day with a set of design challenges where you will use what you’ve learned and be able to workshop ideas with speakers.
 
-Our solution is throwing them straight into the deep end by replacing shallow interests with "how are you living your life?" type questions. How do we do this without scaring away everyone? A prompt such as "What is something you regret doing in life?" is high risk, high reward in the sense that it's borderline uncomfortable—something you'd never just say to a stranger you walked up to—yet it will reveal a lot about a person and allows them to open up. Our solution is to define a new social norm within the app. So we will combine our deep questions with a simple "social contract" where users agree to several simple points, such as "I agree to make the most of my time", "I will be respectful of other users' beliefs", and "I won't just ask questions I can find the answers to on social media". Users then sign their name on the screen. Having this social contract follows the same principle as our "Duke Community Standard" where everyone agrees to not lie or cheat on exams or coursework. 
+One thing we will change is the duration of the event. We had a hard time cutting out content last year, which was why it lasted two days. This year we’ve condensed it all into one.
+
+Ideate will also take place in the Nasher Museum of Modern Art on campus. We’ve worked with museum staff to grant free access to all galleries for our attendees so that they will be able to both enjoy and draw inspiration from the art collections there.
+
+Sounds interesting? If so, registration is now live on https://ideate.hackduke.org/
