@@ -2,7 +2,7 @@
 title: "Yext Internship"
 excerpt: "Prototyped Yext for Events, accessible navbars, and the Yext Japan launch. Products not yet released."
 header:
-  image: 
+  image: /assets/images/googleprideparade.png
   teaser: /assets/images/YextTeaser.png
 sidebar:
   - title: "Role"
@@ -19,23 +19,33 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-**Background**
+Note: These products have not yet been released! In addition, many of the design decisions mentioned here may have already been iterated upon and changed.
 
-I spent this last summer at Yext as a Software Engineering intern working on the page that lets our users edit their location data across all of our publishing platforms: Google Maps, Yelp, Facebook, etc. 
+##Background
 
-My other role was working with the UX engineering team to prototype several new products that only existed as early mockups. Here’s a few of those:
+I spent this last summer interning at Yext in New York City. What Yext does, in a sentence, is take location data from companies and stores, and then publish it everywhere: Google Maps, Yelp, Facebook, etc. I had the unique experience getting to both design and develop for the same platform: our Location Edit page. 
 
-**Yext for Events**
+##Yext for Events
 
-Our users can already edit their locations on Yext—changing addresses, map pins, holiday hours, etc. Yext will soon be offering the ability to manage events.
+###The problem
 
-An example would be a Tesla promotional campaign. This event would take place both in their stores and in public areas such as Central Park. Our user, a person from Tesla creating the event, should be able to easily add, edit, or remove any location from either category as venues become available or stores open and close. 
+Whenever there's a big parade in New York, you'll see it on Google Maps. Users began coming to us asking if they could do something similar and create their own events for promotions and public engagement. So how do we suppor this?
 
-For those reasons, flexibility would be important. At the same time, we wanted to keep the experience of creating Events as similar to normal locations as possible. This creates consistency across all the tools our users encounter, removing the need for general onboarding.
+We already have a Location Edit page which lets users create and edit locations. If you're McDonald's for example, you can set the locations of your stores, bulk update all their holiday hours, etc.
 
-**Creating a prototype**
+Now say you've got a new sandwich coming out and want to do a big launch event. All franchises would participate, but you might also want to have a food truck out on the streets or a stand in the middle of Union Square. Our Events product should let users create multi-location events that can take place in their own locations or elsewhere.
 
-I started with a base Sketch mockup and exported PNG screenshots. My first step from there was to figure out what parts of the page should have user interaction. Charlie Deets has a great writeup on how to translate from Sketch to Framer, and the most useful part of that was his advice to write out every interaction on paper. Here’s a few that I came up with initially:
+My job specifically was to use Sketch and Framer to create a Yext for Events prototype that could be presented at design meetings and iterated upon. 
+
+###The solution
+While Events are a new thing for Yext, we've been working with Locations forever. And our users are too. I originally thought it'd be cool to do a complete redesign centered around Events. Yet upon further thought and discussion, I realized that Events share a lot of qualities with Locations (addresses, hours, phone numbers, etc.) and more importantly, our users are already familiar with the flow of creating a Location. 
+
+Why not adapt the Location Edit flow to Events while adding in the necessary changes? That's what we ended up doing. We borrowed the base Location Edit flow and wove in the ability to add "external" locations, event locations that you don't own. Events also last a certain amount of time, a key part of what distinguishes them from a location, so this was added in as well. 
+
+###Creating a prototype
+After Sketch mocks were formed, I then exported them to Framer. I read a lot of articles on Medium about how to translate from Sketch to Framer, and found this Charlie Deets article really helpful. My favorite part was his advice to put on paper a list of every single interaction. From there, it's simply turning that into Framer code. 
+
+As an example, I'd write:
 
 click Add Your Location (user action)
 search dropdown appears (dropdown animation)
@@ -48,6 +58,4 @@ dropdown disappears (dropdown animation)
 show selected location (list animation)
 Add Your Location button moves down (list animation)
 
-There’s a lot more, but they follow the same format. Figuring out what user actions trigger what animations, and then creating those animations.
-
-These were all done in Framer through the form of creating triggerable mouse events, such as hovering over a button, and then coding in the corresponding action, such as changing the mouse cursor style.
+There’s a lot more when you're dealing with a web app, but every interaction follows the same format. Figuring out what user actions trigger what animations, and then creating those animations.
