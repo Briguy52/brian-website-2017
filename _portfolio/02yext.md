@@ -21,13 +21,13 @@ gallery:
 
 Note: These products have not yet been released! In addition, many of the design decisions mentioned here may have already been iterated upon and changed.
 
-##Background
+## Background
 
 I spent this last summer interning at Yext in New York City. What Yext does, in a sentence, is take location data from companies and stores, and then publish it everywhere: Google Maps, Yelp, Facebook, etc. I had the unique experience getting to both design and develop for the same platform: our Location Edit page. 
 
-##Yext for Events
+## Yext for Events
 
-###The problem
+### The problem
 
 Whenever there's a big parade in New York, you'll see it on Google Maps. Users began coming to us asking if they could do something similar and create their own events for promotions and public engagement. So how do we suppor this?
 
@@ -37,12 +37,12 @@ Now say you've got a new sandwich coming out and want to do a big launch event. 
 
 My job specifically was to use Sketch and Framer to create a Yext for Events prototype that could be presented at design meetings and iterated upon. 
 
-###The solution
+### The solution
 While Events are a new thing for Yext, we've been working with Locations forever. And our users are too. I originally thought it'd be cool to do a complete redesign centered around Events. Yet upon further thought and discussion, I realized that Events share a lot of qualities with Locations (addresses, hours, phone numbers, etc.) and more importantly, our users are already familiar with the flow of creating a Location. 
 
 Why not adapt the Location Edit flow to Events while adding in the necessary changes? That's what we ended up doing. We borrowed the base Location Edit flow and wove in the ability to add "external" locations, event locations that you don't own. Events also last a certain amount of time, a key part of what distinguishes them from a location, so this was added in as well. 
 
-###Creating a prototype
+### Creating a prototype
 After Sketch mocks were formed, I then exported them to Framer. I read a lot of articles on Medium about how to translate from Sketch to Framer, and found this Charlie Deets article really helpful. My favorite part was his advice to put on paper a list of every single interaction. From there, it's simply turning that into Framer code. 
 
 As an example, I'd write:
