@@ -1,5 +1,5 @@
 ---
-title: "Aloha"
+title: "Current Project: Aloha"
 excerpt: "Designing an app to lower the social risk of adventurous conversations"
 header:
   image: /assets/images/alohaBanner.png
@@ -29,7 +29,7 @@ Other than being able to get some design practice in, I'm really excited about t
 
 As such, all of my design decisions revolved around this central theme of habitual, open conversation starting.
 
-**Problem: How do we make this *not* a dating app?
+**Problem: How do we make this *not* a dating app?**
 
 The problem we're helping our users with is connecting with others and starting meaningful conversations. We didn't want this to turn into another dating app. So we started by taking a look at dating apps. In apps like Tinder or Coffee Meets Bagel, you're presented with a single user at a time. Not only that, but the majority of the screen is taken up by a picture, whereas name and age appear below. Oftentimes, you don't even get to the bio until you scroll down. 
 
