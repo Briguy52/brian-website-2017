@@ -25,9 +25,19 @@ gallery:
 
 Aloha is the main project I'm working on now with several students from both Duke and UNC. The idea was born out of behavioral econ research done by members of the team, showing that many college students don't complete their first year due to an inability to connect with other students on campus. We've been through typical orientation week conversations where we ask about our majors and hometowns and dorms, but rarely get to learn how we're truly living our lives. The result of these shallow conversations is shallow friendships that aren't able to support us when we need it. Our goal is to create an app that helps students create a habit of starting adventurous conversations. 
 
-As such, all of my design decisions revolved around this central theme of habitual conversation starting.
+Other than being able to get some design practice in, I'm really excited about this project because I used to be a host for Tea with Strangers. It's an informal countrywide movement where hosts setup a teatime with up to five other random strangers, and then spend the next two hours talking about anything. We'd talk about anything from classes to how we thought the world would end. Onetime, I even had a teatime with a fellow host where everyone was blindfolded! I really loved the experience, and I'm hoping to recreate it through this project. 
 
-**Problem: Conversation Starters and Social Risk**
+As such, all of my design decisions revolved around this central theme of habitual, open conversation starting.
+
+**Problem: How do we make this *not* a dating app?
+
+The problem we're helping our users with is connecting with others and starting meaningful conversations. We didn't want this to turn into another dating app. So we started by taking a look at dating apps. In apps like Tinder or Coffee Meets Bagel, you're presented with a single user at a time. Not only that, but the majority of the screen is taken up by a picture, whereas name and age appear below. Oftentimes, you don't even get to the bio until you scroll down. 
+
+Our first change came from shrinking the picture. For our users, how you're living your life matters more than your looks. And so the picture gallery was reduced to a single profile picture, enough to identify you. Bio and background could then expand on our screen so you could find out more about a user and who they are.
+
+Another big change was switching from showing a single profile at a time, to a few. Two and a half. A single profile is an example of "narrow bracketing", where you're only shown a very small subset of all your choices. In apps like Tinder, you have to decide right away whether you like someone. And there's no going back. That's not what we're going for here. Instead, we go with broad bracketing, where you're able to see several people at a time, and you always have the ability to cycle back to someone who seemed interesting.
+
+**Problem: Conversation starters and social risk**
 
 Our original way of starting conversations was to ask each user for a few interests. Things like "food" or "basketball" or "reading". These are great for small talk, but as a form of smalltalk, there's low risk and low reward. Nothing is at stake (unless we're talking Duke basketball of course). Our target audience is students who are having difficulty making the transition from small talk to asking about their personal lives and what matters to them. 
 
