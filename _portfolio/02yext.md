@@ -43,19 +43,17 @@ While Events are a new thing for Yext, we've been working with Locations forever
 Why not adapt the Location Edit flow to Events while adding in the necessary changes? That's what we ended up doing. We borrowed the base Location Edit flow and wove in the ability to add "external" locations, event locations that you don't own. Events also last a certain amount of time, a key part of what distinguishes them from a location, so this was added in as well. 
 
 ### Creating a prototype
-After Sketch mocks were formed, I then exported them to Framer. I read a lot of articles on Medium about how to translate from Sketch to Framer, and found this Charlie Deets article really helpful. My favorite part was his advice to put on paper a list of every single interaction. From there, it's simply turning that into Framer code. 
+After Sketch mocks were formed, I then exported them to Framer. I read a lot of articles on Medium about how to translate from Sketch to Framer, and found [this Charlie Deets article](https://medium.com/facebook-design/framer-sketch-an-intentional-workflow-f91ee2ee1cc1) really helpful. My favorite part was his advice to put on paper a list of every single interaction. From there, it's simply turning that into Framer code. 
 
 As an example, I'd write:
 
-click Add Your Location (user action)
-search dropdown appears (dropdown animation)
-
-type in the search area (user action)
-dropdown updates (dropdown animation)
-
-click on a location (user action)
-dropdown disappears (dropdown animation)
-show selected location (list animation)
-Add Your Location button moves down (list animation)
+* click Add Your Location (user action)
+* search dropdown appears (dropdown animation)
+* type in the search area (user action)
+* dropdown updates (dropdown animation)
+* click on a location (user action)
+* dropdown disappears (dropdown animation)
+* show selected location (list animation)
+* Add Your Location button moves down (list animation)
 
 There’s a lot more when you're dealing with a web app, but every interaction follows the same format. Figuring out what user actions trigger what animations, and then creating those animations.
