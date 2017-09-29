@@ -1,5 +1,5 @@
 ---
-title: "HackDuke"
+title: "HackDuke Website"
 excerpt: "Built the hackathon landing page, day of site, and registration portal. Currently Marketing team lead."
 header:
   image: /assets/images/HackDukeScreen.png
@@ -7,7 +7,7 @@ header:
 sidebar:
   - title: "Role"
     image: /assets/images/hackDuke.png
-    image_alt: "Aloha Logo"
+    image_alt: "Logo"
     text: "Marketing Team Lead, Developer, Organizer"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg

@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/TeslaTeaser.png
 sidebar:
   - title: "Role"
-    image: /assets/images/AlohaLogo.png
+    image: 
     image_alt: "Aloha Logo"
     text: "UX Designer"
 gallery:
@@ -21,3 +21,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
+Work in progress—hold tight!
