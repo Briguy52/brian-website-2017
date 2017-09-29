@@ -1,14 +1,14 @@
 ---
-title: "HackDuke Design"
+title: "HackKitties"
 excerpt: "Creating marketing materials and branding for the Fall 2017 Hackathon"
 header:
-  image: /assets/images/TeslaBig.png
-  teaser: /assets/images/TeslaTeaser.png
+  image: /assets/images/ClericBig.png
+  teaser: /assets/images/ClericTeaser.png
 sidebar:
   - title: "Role"
     image: 
-    image_alt: "Aloha Logo"
-    text: "UX Designer"
+    image_alt: "Logo"
+    text: "Designer"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
