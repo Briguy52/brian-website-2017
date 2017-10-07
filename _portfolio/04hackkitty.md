@@ -1,5 +1,5 @@
 ---
-title: "HackKitties"
+title: "Hack Kitty Design"
 excerpt: "Creating marketing materials and branding for the Fall 2017 Hackathon"
 header:
   image: /assets/images/ClericBig.png
@@ -21,4 +21,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Work in progress—hold tight!
+Full article on Medium [here](https://medium.com/@brianmlin/creating-a-hack-kitty-78ad4a75099e).
