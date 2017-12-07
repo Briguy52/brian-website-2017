@@ -13,6 +13,11 @@ gallery:
   - url: /assets/images/alohaScreens.png
     image_path: /assets/images/alohaScreens.png
     alt: "placeholder image 1"
+
+gallery0:
+  - url: /assets/images/alohaScreens.png
+    image_path: /assets/images/alohaScreens.png
+    alt: "placeholder image 1"
 ---
 
 **Background**

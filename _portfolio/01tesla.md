@@ -10,8 +10,8 @@ sidebar:
     image_alt: ""
     text: "Designer"
 gallery:
-  - url: /assets/images/teslaScreens.png
-    image_path: /assets/images/teslaScreens.png
+  - url: /assets/images/TeslaScreens.png
+    image_path: /assets/images/TeslaScreens.png
     alt: "tesla screens"
 ---
 
