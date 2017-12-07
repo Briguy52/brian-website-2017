@@ -10,8 +10,8 @@ sidebar:
     image_alt: "Aloha Logo"
     text: "UX Designer"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/alohaScreens.png
+    image_path: /assets/images/alohaScreens.png
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
