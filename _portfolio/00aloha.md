@@ -29,7 +29,7 @@ Other than being able to get some design practice in, I'm really excited about t
 
 As such, all of my design decisions revolved around this central theme of habitual, open conversation starting.
 
-{% include gallery caption="Brainstorming plus current screens from the app" %}
+{% include gallery caption="Current screens and brainstorming for the app" %}
 
 **Designing for Behavior Change - Conversation Starters and Social Risk**
 
@@ -39,7 +39,7 @@ Instead, we want people to get deep. We want people to develop a habit of not ju
 
 But how do we do this without scaring away everyone? A prompt such as "What is something you regret doing in life?" is high risk, high reward. It's borderline uncomfortable—something you'd never just say to a stranger you walked up to—yet it will reveal a lot about who a person is, crucial if you want to develop any lasting relationship. Our solution is to define a new social norm within the app. We combine our deep questions with a simple "social contract" where users agree to several simple points, such as "I agree to make the most of my time", "I will be respectful of other users' beliefs", and "I won't just ask questions I can find the answers to on social media". Users then sign their name on the screen. It's like the community standard at college, where everyone agrees to not lie or cheat on exams or coursework. Signing that sheet puts you under surveillance by yourself. You're primed to check your own behavior and practice what you agreed to. 
 
-{% include gallery0 caption="Planning user retention from step to step plus user flows and journeys throughout the app" %}
+
 
 **Design Problem: How Do We Make This *Not* a Dating App?**
 
