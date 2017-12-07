@@ -13,12 +13,6 @@ gallery:
   - url: /assets/images/alohaScreens.png
     image_path: /assets/images/alohaScreens.png
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
 **Background**
@@ -29,7 +23,8 @@ Other than being able to get some design practice in, I'm really excited about t
 
 As such, all of my design decisions revolved around this central theme of habitual, open conversation starting.
 
-![screenshots](assets/images/alohaScreens.png)
+{% include gallery caption="" %}
+
 
 **Designing for Behavior Change - Conversation Starters and Social Risk**
 
