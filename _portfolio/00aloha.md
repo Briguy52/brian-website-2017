@@ -29,6 +29,8 @@ Other than being able to get some design practice in, I'm really excited about t
 
 As such, all of my design decisions revolved around this central theme of habitual, open conversation starting.
 
+![screenshots](assets/images/alohaScreens.png)
+
 **Designing for Behavior Change - Conversation Starters and Social Risk**
 
 Our initial approach to conversation starters was to ask each user for a few interests. Things like "food" or "basketball" or "reading". These are great for finding out what people do, but reveal little about who they are and why they're here. These topics are essentially low risk, low reward—nothing is at stake (unless we're talking about Duke basketball). 
