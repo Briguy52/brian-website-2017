@@ -13,8 +13,6 @@ gallery:
   - url: /assets/images/alohaScreens.png
     image_path: /assets/images/alohaScreens.png
     alt: "placeholder image 1"
-
-gallery0:
   - url: /assets/images/retentionFunnels.png
     image_path: /assets/images/retentionFunnels.png
     alt: "placeholder image 1"
@@ -31,7 +29,7 @@ Other than being able to get some design practice in, I'm really excited about t
 
 As such, all of my design decisions revolved around this central theme of habitual, open conversation starting.
 
-{% include gallery caption="Current screen designs for the app" %}
+{% include gallery caption="Brainstorming plus current screens from the app" %}
 
 **Designing for Behavior Change - Conversation Starters and Social Risk**
 
