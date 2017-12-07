@@ -29,7 +29,7 @@ Other than being able to get some design practice in, I'm really excited about t
 
 As such, all of my design decisions revolved around this central theme of habitual, open conversation starting.
 
-{% include gallery caption="Current screens and brainstorming for the app" %}
+{% include gallery caption="" %}
 
 **Designing for Behavior Change - Conversation Starters and Social Risk**
 
